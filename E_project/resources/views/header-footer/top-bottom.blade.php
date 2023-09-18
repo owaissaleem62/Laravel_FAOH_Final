@@ -717,25 +717,3 @@
 
 <!-- index30:23-->
 </html>
-
-
-
-
-
-@if (Route::has('login'))
-@auth
-<a  href="{{ url('/dashboard') }}" class="nav-item nav-link">Login</a>
- @else
- <a  href="{{ route('login') }}" class="nav-item nav-link">Login</a>
- @if (Route::has('register'))
-
-
-
-</li>
-<li><a href="/checkout">Checkout</a></li>
-<li>
-
-<a href="{{ route('register') }}" class="nav-item nav-link">Register</a>
-@endif
-@endauth
-@endif
