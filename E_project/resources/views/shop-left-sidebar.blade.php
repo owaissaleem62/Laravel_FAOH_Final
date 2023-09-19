@@ -68,7 +68,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 1.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -89,7 +89,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hip Hop Bag Maroon</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hip Hop Bag Maroon</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:2,000</span>
                                                                 </div>
@@ -109,7 +109,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 2.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -130,7 +130,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Verona Tote Bag Black</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Verona Tote Bag Black</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:2,500</span>
                                                                 </div>
@@ -150,7 +150,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 3.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -171,7 +171,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Acrylic Bag Brown</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Acrylic Bag Brown</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:2,000</span>
                                                                 </div>
@@ -191,7 +191,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 1.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -212,7 +212,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">prescott-tan</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">prescott-tan</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:2,000</span>
                                                                 </div>
@@ -232,7 +232,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 2.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -253,7 +253,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">prescott-black</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">prescott-black</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:2,500</span>
                                                                 </div>
@@ -273,7 +273,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 3.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -294,7 +294,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">kurt-tan</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">kurt-tan</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:2,000</span>
                                                                 </div>
@@ -314,7 +314,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 4.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -335,7 +335,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Floweret Bag Maroon</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Floweret Bag Maroon</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -355,7 +355,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 5.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -376,7 +376,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Accusantium dolorem1</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -396,7 +396,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 6.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -417,7 +417,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Accusantium dolorem1</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -437,7 +437,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 4.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -458,7 +458,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">kurt-black</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">kurt-black</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:1,800</span>
                                                                 </div>
@@ -478,7 +478,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 5.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -499,7 +499,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">mason</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">mason</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs: 1,500</span>
                                                                 </div>
@@ -519,7 +519,7 @@
                                                     <!-- single-product-wrap start -->
                                                     <div class="single-product-wrap">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 6.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -540,7 +540,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">judas-charcoal</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">judas-charcoal</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:1,500</span>
                                                                 </div>
@@ -565,7 +565,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 7.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -588,7 +588,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -609,7 +609,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 8.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -632,7 +632,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -653,7 +653,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 9.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -676,7 +676,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -697,7 +697,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 7.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -720,7 +720,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">judas vapour grey</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">judas vapour grey</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">Rs:1,800</span>
                                                                 </div>
@@ -741,7 +741,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 8.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -764,7 +764,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -785,7 +785,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 9.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -808,7 +808,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -829,7 +829,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 10.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -852,7 +852,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -873,7 +873,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 11.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -896,7 +896,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -917,7 +917,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/bag 12.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -940,7 +940,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -961,7 +961,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 10.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -984,7 +984,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -1005,7 +1005,7 @@
                                                 <div class="row product-layout-list">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 11.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -1028,7 +1028,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>
@@ -1049,7 +1049,7 @@
                                                 <div class="row product-layout-list last-child">
                                                     <div class="col-lg-3 col-md-5 ">
                                                         <div class="product-image">
-                                                            <a href="single-product.html">
+                                                            <a href="/Shop">
                                                                 <img src="./images/product/large-size/wallet 12.jpg" alt="Li's Product Image">
                                                             </a>
                                                             <span class="sticker">New</span>
@@ -1072,7 +1072,7 @@
                                                                         </ul>
                                                                     </div>
                                                                 </div>
-                                                                <h4><a class="product_name" href="single-product.html">Hummingbird printed t-shirt</a></h4>
+                                                                <h4><a class="product_name" href="/Shop">Hummingbird printed t-shirt</a></h4>
                                                                 <div class="price-box">
                                                                     <span class="new-price">$46.80</span>
                                                                 </div>

@@ -95,7 +95,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -116,7 +116,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Hip Hop Bag Maroon</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Hip Hop Bag Maroon</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -136,7 +136,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -157,7 +157,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Verona Tote Bag Black</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Verona Tote Bag Black</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 2,500</span>
                                                     </div>
@@ -177,7 +177,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -198,7 +198,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Acrylic Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Acrylic Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -218,7 +218,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -239,7 +239,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Floweret Bag Maroon</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Floweret Bag Maroon</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs;2,600</span>
                                                     </div>
@@ -259,7 +259,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -280,7 +280,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Clarent Bag Green</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Clarent Bag Green</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,700</span>
                                                     </div>
@@ -300,7 +300,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -321,7 +321,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Globe Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Globe Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:3,000</span>
                                                     </div>
@@ -347,7 +347,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -368,7 +368,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Pouch Size Shoulder Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Pouch Size Shoulder Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,500</span>
                                                     </div>
@@ -388,7 +388,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -409,7 +409,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Pouch Size Shoulder Bag Black</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Pouch Size Shoulder Bag Black</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 2,000</span>
                                                     </div>
@@ -429,7 +429,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 10.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -450,7 +450,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Pouch Size Shoulder Bag (Suede Maroon)</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Pouch Size Shoulder Bag (Suede Maroon)</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,500</span>
                                                     </div>
@@ -470,7 +470,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -491,7 +491,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Pouch Size Shoulder Bag (Brown ENGRAVED)</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Pouch Size Shoulder Bag (Brown ENGRAVED)</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 2,500</span>
                                                     </div>
@@ -511,7 +511,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 8.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -532,7 +532,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Olive Bag Green</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Olive Bag Green</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -552,7 +552,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -573,7 +573,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Cruise Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Cruise Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 2,000</span>
                                                     </div>
@@ -599,7 +599,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -620,7 +620,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Acrylic Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Acrylic Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 1,500</span>
                                                     </div>
@@ -640,7 +640,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -661,7 +661,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Clarent Bag Green</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Clarent Bag Green</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 2,500</span>
                                                     </div>
@@ -681,7 +681,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -702,7 +702,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Cruise Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Cruise Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 1,800</span>
                                                     </div>
@@ -722,7 +722,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -743,7 +743,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Pouch Size Shoulder Bag (Brown ENGRAVED)</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Pouch Size Shoulder Bag (Brown ENGRAVED)</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 2,800</span>
                                                     </div>
@@ -763,7 +763,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -784,7 +784,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Pouch Size Shoulder Bag Black</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Pouch Size Shoulder Bag Black</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,600</span>
                                                     </div>
@@ -804,7 +804,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -825,7 +825,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Pouch Size Shoulder Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Pouch Size Shoulder Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 3,000</span>
                                                     </div>
@@ -871,7 +871,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -892,7 +892,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">prescott-tan</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">prescott-tan</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -912,7 +912,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -933,7 +933,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">prescott-black</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">prescott-black</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 2,500</span>
                                                     </div>
@@ -953,7 +953,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -974,7 +974,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">kurt-tan</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">kurt-tan</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -994,7 +994,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1015,7 +1015,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">kurt-black</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">kurt-black</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 1,800</span>
                                                     </div>
@@ -1035,7 +1035,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1056,7 +1056,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">mason</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">mason</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 1,500</span>
                                                     </div>
@@ -1076,7 +1076,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1097,7 +1097,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">judas-charcoal</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">judas-charcoal</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 1,500</span>
                                                     </div>
@@ -1123,7 +1123,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1144,7 +1144,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">judas vapour grey</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">judas vapour grey</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 1,800</span>
                                                     </div>
@@ -1164,7 +1164,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 8.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1185,7 +1185,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">rev</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">rev</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 1,900</span>
                                                     </div>
@@ -1205,7 +1205,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1226,7 +1226,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">klien</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">klien</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs:1,700</span>
                                                     </div>
@@ -1246,7 +1246,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 10.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1267,7 +1267,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">plait</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">plait</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,000</span>
                                                     </div>
@@ -1287,7 +1287,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1308,7 +1308,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">toni-california sun</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">toni-california sun</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs:2,500</span>
                                                     </div>
@@ -1328,7 +1328,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1349,7 +1349,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">triton</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">triton</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,300</span>
                                                     </div>
@@ -1375,7 +1375,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 13.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1396,7 +1396,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">von</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">von</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs:2,200</span>
                                                     </div>
@@ -1416,7 +1416,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 14.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1437,7 +1437,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">byson-black</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">byson-black</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,400</span>
                                                     </div>
@@ -1457,7 +1457,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 15.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1478,7 +1478,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">garret</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">garret</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs:2,600</span>
                                                     </div>
@@ -1498,7 +1498,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 16.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1519,7 +1519,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">remy</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">remy</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,100</span>
                                                     </div>
@@ -1539,7 +1539,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 17.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1560,7 +1560,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">lacquer</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">lacquer</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs:2,000</span>
                                                     </div>
@@ -1580,7 +1580,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/wallet 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1601,7 +1601,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">prescott-tan</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">prescott-tan</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,300</span>
                                                     </div>
@@ -1647,7 +1647,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1668,7 +1668,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Kryolan - TV Paint Stick</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Kryolan - TV Paint Stick</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 4,000</span>
                                                     </div>
@@ -1688,7 +1688,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1709,7 +1709,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Eyelash Adhesive (Glue)</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Eyelash Adhesive (Glue)</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 500</span>
                                                     </div>
@@ -1729,7 +1729,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1750,7 +1750,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Dual Wet & Dry Compact Powder</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Dual Wet & Dry Compact Powder</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -1770,7 +1770,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1791,7 +1791,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Intense Eyeliner</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Intense Eyeliner</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:800</span>
                                                     </div>
@@ -1811,7 +1811,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1832,7 +1832,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Colorist Nail Paint - ST004 - True Blood</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Colorist Nail Paint - ST004 - True Blood</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:300</span>
                                                     </div>
@@ -1852,7 +1852,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1873,7 +1873,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Kryolan - Aquacolor Cake Liner</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Kryolan - Aquacolor Cake Liner</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,200</span>
                                                     </div>
@@ -1899,7 +1899,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1920,7 +1920,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Kryolan - TV Paint Stick</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Kryolan - TV Paint Stick</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 4,000</span>
                                                     </div>
@@ -1940,7 +1940,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1961,7 +1961,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Eyelash Adhesive (Glue)</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Eyelash Adhesive (Glue)</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 500</span>
                                                     </div>
@@ -1981,7 +1981,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2002,7 +2002,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Dual Wet & Dry Compact Powder</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Dual Wet & Dry Compact Powder</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -2022,7 +2022,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2043,7 +2043,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Intense Eyeliner</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Intense Eyeliner</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:800</span>
                                                     </div>
@@ -2063,7 +2063,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2084,7 +2084,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Colorist Nail Paint - ST004 - True Blood</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Colorist Nail Paint - ST004 - True Blood</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:300</span>
                                                     </div>
@@ -2104,7 +2104,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2125,7 +2125,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Kryolan - Aquacolor Cake Liner</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Kryolan - Aquacolor Cake Liner</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,200</span>
                                                     </div>
@@ -2151,7 +2151,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2172,7 +2172,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Kryolan - TV Paint Stick</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Kryolan - TV Paint Stick</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 4,000</span>
                                                     </div>
@@ -2192,7 +2192,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2213,7 +2213,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Eyelash Adhesive (Glue)</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Eyelash Adhesive (Glue)</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 500</span>
                                                     </div>
@@ -2233,7 +2233,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2254,7 +2254,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Dual Wet & Dry Compact Powder</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Dual Wet & Dry Compact Powder</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -2274,7 +2274,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2295,7 +2295,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Intense Eyeliner</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Intense Eyeliner</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:800</span>
                                                     </div>
@@ -2315,7 +2315,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2336,7 +2336,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">ST London - Colorist Nail Paint - ST004 - True Blood</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">ST London - Colorist Nail Paint - ST004 - True Blood</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:300</span>
                                                     </div>
@@ -2356,7 +2356,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/beauty 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2377,7 +2377,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Kryolan - Aquacolor Cake Liner</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Kryolan - Aquacolor Cake Liner</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,200</span>
                                                     </div>
@@ -2440,7 +2440,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2461,7 +2461,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Hip Hop Bag Maroon</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Hip Hop Bag Maroon</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -2481,7 +2481,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2502,7 +2502,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Verona Tote Bag Black</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Verona Tote Bag Black</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs: 2,500</span>
                                                     </div>
@@ -2522,7 +2522,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2543,7 +2543,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Acrylic Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Acrylic Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -2563,7 +2563,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2584,7 +2584,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Floweret Bag Maroon</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Floweret Bag Maroon</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,600</span>
                                                     </div>
@@ -2604,7 +2604,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2625,7 +2625,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Clarent Bag Green</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Clarent Bag Green</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,700</span>
                                                     </div>
@@ -2645,7 +2645,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2666,7 +2666,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Globe Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Globe Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:3,000</span>
                                                     </div>
@@ -2692,7 +2692,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2713,7 +2713,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -2733,7 +2733,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2754,7 +2754,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -2776,7 +2776,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 10.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2797,7 +2797,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -2817,7 +2817,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2838,7 +2838,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -2860,7 +2860,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 8.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2881,7 +2881,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -2901,7 +2901,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2922,7 +2922,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -2950,7 +2950,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2971,7 +2971,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Acrylic Bag Brown</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Acrylic Bag Brown</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 2,000</span>
                                                     </div>
@@ -2991,7 +2991,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3012,7 +3012,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Clarent Bag Green</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Clarent Bag Green</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">Rs:2,700</span>
                                                     </div>
@@ -3032,7 +3032,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3053,7 +3053,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -3073,7 +3073,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3094,7 +3094,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -3116,7 +3116,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3137,7 +3137,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -3157,7 +3157,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/bag 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3178,7 +3178,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="/Shop">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -3226,7 +3226,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3247,7 +3247,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 1</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3267,7 +3267,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3288,7 +3288,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 2</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 2</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3308,7 +3308,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3329,7 +3329,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 3</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 3</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3349,7 +3349,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3370,7 +3370,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 4</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 4</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3390,7 +3390,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3411,7 +3411,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 5</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 5</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3431,7 +3431,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3452,7 +3452,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 6</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 6</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3478,7 +3478,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3499,7 +3499,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 7</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 7</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3519,7 +3519,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 8.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3540,7 +3540,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 8</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 8</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3560,7 +3560,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3581,7 +3581,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 9</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 9</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3601,7 +3601,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 10.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3622,7 +3622,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 10</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 10</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3642,7 +3642,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3663,7 +3663,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 11</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 11</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3683,7 +3683,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3704,7 +3704,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 12</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 12</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3730,7 +3730,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 13.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3751,7 +3751,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 13</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 13</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3771,7 +3771,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 14.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3792,7 +3792,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 14</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 14</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3812,7 +3812,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 15.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3833,7 +3833,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 15</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 15</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3853,7 +3853,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 16.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3874,7 +3874,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 16</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 16</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3894,7 +3894,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 17.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3915,7 +3915,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 17</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 17</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
@@ -3935,7 +3935,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="/Shop">
                                                     <img src="images/product/large-size/card 18.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -3956,7 +3956,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html"> Greeding Card 18</a></h4>
+                                                    <h4><a class="product_name" href="/Shop"> Greeding Card 18</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">Rs: 100</span>
                                                     </div>
