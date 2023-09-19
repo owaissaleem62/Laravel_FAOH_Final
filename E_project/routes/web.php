@@ -24,7 +24,6 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/about-us', "about");
     Route::get('/cart', "cart");
     Route::get('/checkout', "chackOut");
-    //
     Route::get('/contact', "contact");
     Route::get('/Login-Register', "loginRegister");
     Route::get('/product-Details', "productDetail");
