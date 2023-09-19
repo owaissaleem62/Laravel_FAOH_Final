@@ -1181,7 +1181,7 @@ textarea:focus {
 	transition: all 0.3s ease-in-out;
 }
 .cart-quantity .add-to-cart:hover {
-  background: white;
+  background: #333333;
   color: #ffffff;
 }
 .cart-plus-minus {
