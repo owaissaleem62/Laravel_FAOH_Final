@@ -3798,6 +3798,7 @@ p.checkout-coupon input[type="submit"]:hover {
 .your-order {
 	background: #f2f2f2 none repeat scroll 0 0;
 	padding: 30px 40px 45px;
+	color: black;
 }
 .your-order h3 {
 	border-bottom: 1px solid #d8d8d8;
