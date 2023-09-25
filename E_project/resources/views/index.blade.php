@@ -92,7 +92,7 @@
                             <div class="row">
                                 <div class="product-active owl-carousel">
                                     <div class="col-lg-12">
-                                        <!-- single-product-wrap  start -->
+                                        <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="/Shop">
