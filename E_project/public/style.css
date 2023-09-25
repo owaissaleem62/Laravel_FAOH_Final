@@ -1728,7 +1728,7 @@ textarea:focus {
 	height: 50px;
 }
 .li-button:hover {
-	background: white;
+	background: #333333;
 	color: #ffffff;
 }
 .li-button-fullwidth {
