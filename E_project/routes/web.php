@@ -37,9 +37,6 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/product_categorys', "product_category");
 
 
-
-   // Route::get('/header_footer,"header_footer");
-
 }
 );
 
