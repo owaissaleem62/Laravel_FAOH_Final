@@ -52,21 +52,21 @@
             <hr class="sidebar-divider">
 
             <!-- Heading -->
-            <div class="sidebar-heading">
+            <!-- <div class="sidebar-heading">
                 Product Managments
-            </div>
+            </div> -->
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
                     aria-expanded="true" aria-controls="collapseTwo">
                     <i class="fas fa-fw fa-cog"></i>
-                    <span>PRODUCTS SECTION</span>
+                    <span>Manage Categories</span>
                 </a>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="/add_products">ADD PRODUCTS</a>
-                        <a class="collapse-item" href="/product_categorys">PRODUCTS CATEGORY</a>
+                        <a class="collapse-item" href="/add_products">Add Products</a>
+                        <a class="collapse-item" href="/product_categorys">Product Categories</a>
                     </div>
                 </div>
             </li>
@@ -76,12 +76,12 @@
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities"
                     aria-expanded="true" aria-controls="collapseUtilities">
                     <i class="fas fa-fw fa-wrench"></i>
-                    <span>ORDER MANAGMENTS</span>
+                    <span>Manage Orders</span>
                 </a>
                 <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities"
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="/order_table">ORDER DETAILES</a>
+                        <a class="collapse-item" href="/order_table">Order Details</a>
                         <a class="collapse-item" href="utilities-border.html">Borders</a>
                         <a class="collapse-item" href="utilities-animation.html">Animations</a>
                         <a class="collapse-item" href="utilities-other.html">Other</a>
@@ -142,7 +142,7 @@
 
             <!-- Sidebar Message -->
             <div class="sidebar-card d-none d-lg-flex">
-                <img class="sidebar-card-illustration mb-2" src="img/undraw_rocket.svg" alt="...">
+                <img class="sidebar-card-illustration mb-2" src="assets/img/undraw_rocket.svg" alt="...">
                 <p class="text-center mb-2"><strong>SB Admin Pro</strong> is packed with premium features, components, and more!</p>
                 <a class="btn btn-success btn-sm" href="https://startbootstrap.com/theme/sb-admin-pro">Upgrade to Pro!</a>
             </div>
@@ -271,7 +271,7 @@
             </h6>
             <a class="dropdown-item d-flex align-items-center" href="#">
                 <div class="dropdown-list-image mr-3">
-                    <img class="rounded-circle" src="img/undraw_profile_1.svg"
+                    <img class="rounded-circle" src="assets/img/undraw_profile_1.svg"
                         alt="...">
                     <div class="status-indicator bg-success"></div>
                 </div>
@@ -283,7 +283,7 @@
             </a>
             <a class="dropdown-item d-flex align-items-center" href="#">
                 <div class="dropdown-list-image mr-3">
-                    <img class="rounded-circle" src="img/undraw_profile_2.svg"
+                    <img class="rounded-circle" src="assets/img/undraw_profile_2.svg"
                         alt="...">
                     <div class="status-indicator"></div>
                 </div>
@@ -295,7 +295,7 @@
             </a>
             <a class="dropdown-item d-flex align-items-center" href="#">
                 <div class="dropdown-list-image mr-3">
-                    <img class="rounded-circle" src="img/undraw_profile_3.svg"
+                    <img class="rounded-circle" src="assets/img/undraw_profile_3.svg"
                         alt="...">
                     <div class="status-indicator bg-warning"></div>
                 </div>
@@ -329,7 +329,7 @@
             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <span class="mr-2 d-none d-lg-inline text-gray-600 small">Douglas McGee</span>
             <img class="img-profile rounded-circle"
-                src="img/undraw_profile.svg">
+                src="assets/img/undraw_profile.svg">
         </a>
         <!-- Dropdown - User Information -->
         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
