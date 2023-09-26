@@ -47,5 +47,23 @@ class newcontroller extends Controller
         return view("wishlist");
     }
 
+    public function home_dashboard(){
+        return view("home_dashboard");
+    }
+
+    public function orders_table(){
+        return view("orders_tbl");
+    }
+
+    public function add_products(){
+        return view("add_product");
+    }
+
+    public function product_category(){
+        //filename.blade.php
+        return view("product_category");
+    }
+
+
 }
 
