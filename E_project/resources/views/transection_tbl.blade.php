@@ -3,14 +3,17 @@
 
 <!-- Begin Page Content -->
 <div class="container-fluid">
-
-<!-- Page Heading -->
-<!-- <h1 class="h3 mb-2 text-gray-800">Tables</h1> -->
-<!-- <p class="mb-4">DataTables is a third party plugin that is used to generate the demo table below.
-    For more information about DataTables, please visit the <a target="_blank"
-        href="https://datatables.net">official DataTables documentation</a>.</p> -->
         <div class="card-header py-3 card shadow mb-4">
         <h6 class="m-0 font-weight-bold text-primary">All Transection</h6>
+    </div>
+    <div>
+        <form action="#" style="padding-left: 20%;">
+          <label for="start_date">Start Date:</label>
+          <input type="date" id="start_date" name="start_date" style="border:2px solid #e3e6f0;">
+          <label for="end_date">End Date:</label>
+          <input type="date" id="end_date" name="end_date" style="border:2px solid #e3e6f0;">
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
     </div>
 <!-- DataTales Example -->
 <div class="card shadow mb-4">

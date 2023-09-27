@@ -72,9 +72,17 @@ class newcontroller extends Controller
         return view("add_customer");
     }
 
+    public function profile(){
+        return view("profile");
+    }
 
+    public function admin_login(){
+        return view("admin_login");
+    }
 
-
+    public function sys_user(){
+        return view("sys_user");
+    }
 
 
 }
