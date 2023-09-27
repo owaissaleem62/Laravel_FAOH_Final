@@ -3,28 +3,25 @@
 
 <!-- Begin Page Content -->
 <div class="container-fluid">
+
+<!-- Page Heading -->
+<!-- <h1 class="h3 mb-2 text-gray-800">Tables</h1> -->
+<!-- <p class="mb-4">DataTables is a third party plugin that is used to generate the demo table below.
+    For more information about DataTables, please visit the <a target="_blank"
+        href="https://datatables.net">official DataTables documentation</a>.</p> -->
         <div class="card-header py-3 card shadow mb-4">
-        <h6 class="m-0 font-weight-bold text-primary">All Customer Orders</h6>
-    </div>
-    <div>
-        <form action="#" style="padding-left: 20%;">
-          <label for="start_date">Start Date:</label>
-          <input type="date" id="start_date" name="start_date" style="border:2px solid #e3e6f0;">
-          <label for="end_date">End Date:</label>
-          <input type="date" id="end_date" name="end_date" style="border:2px solid #e3e6f0;">
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        <h6 class="m-0 font-weight-bold text-primary">All Transection</h6>
     </div>
 <!-- DataTales Example -->
-<div class="card shadow mb-4" style="margin-top: 2%;">
+<div class="card shadow mb-4">
     <div class="card-body">
         <div class="table-responsive">
             <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                 <thead>
                     <tr>
-                        <th>Order id</th>
-                        <th>User</th>
-                        <th>Total Amount</th>
+                        <th>Customer Email</th>
+                        <th>Transection ID</th>
+                        <th>Order Status</th>
                         <th>Payment Status</th>
                         <th>Order Status</th>
                         <th>Action</th>
@@ -32,9 +29,9 @@
                 </thead>
                 <tfoot>
                     <tr>
-                        <th>Order id</th>
-                        <th>User</th>
-                        <th>Total Amount</th>
+                    <th>Customer Email</th>
+                        <th>Transection ID</th>
+                        <th>Order Status</th>
                         <th>Payment Status</th>
                         <th>Order Status</th>
                         <th>Action</th>

@@ -35,7 +35,7 @@
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/Dashboard_page">
-                <div class="sidebar-brand-text mx-3"><h2 style="font-weight:bold;">FAOH</h2 ></div>
+                <div class="sidebar-brand-text mx-3"><img src=".\assets\img\dashboard_logo.png" alt="" style="width: 205px; margin-top: -5%;"></div>
             </a>
 
             <!-- Divider -->
@@ -56,14 +56,28 @@
                 Product Managments
             </div> -->
 
+            <!-- Nav Item - Pages Manage Customer Section Menu -->
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseCustomer"
+                    aria-expanded="true" aria-controls="collapseCustomer">
+                    <i class="fas fa-fw fa-cog"></i>
+                    <span>Manage Customer</span>
+                </a>
+                <div id="collapseCustomer" class="collapse" aria-labelledby="headingCustomer" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        <a class="collapse-item" href="/add_customers">Add Customer</a>
+                    </div>
+                </div>
+            </li>
+
             <!-- Nav Item - Pages Manage Categories Section Menu -->
             <li class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
-                    aria-expanded="true" aria-controls="collapseTwo">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseCategory"
+                    aria-expanded="true" aria-controls="collapseCategory">
                     <i class="fas fa-fw fa-cog"></i>
                     <span>Manage Categories</span>
                 </a>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div id="collapseCategory" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" href="/product_categorys">Add Categories</a>
                     </div>
@@ -96,6 +110,21 @@
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" href="/order_table">All Orders</a>
+                    </div>
+                </div>
+            </li>
+
+            <!-- Nav Item - Manage Transection Menu -->
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTransection"
+                    aria-expanded="true" aria-controls="collapseTransection">
+                    <i class="fas fa-fw fa-wrench"></i>
+                    <span>Manage Transection</span>
+                </a>
+                <div id="collapseTransection" class="collapse" aria-labelledby="headingTransection"
+                    data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        <a class="collapse-item" href="/transection">All Transection</a>
                     </div>
                 </div>
             </li>

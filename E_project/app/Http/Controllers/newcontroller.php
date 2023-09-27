@@ -64,6 +64,16 @@ class newcontroller extends Controller
         return view("product_category");
     }
 
+    public function transection_tbl(){
+        return view("transection_tbl");
+    }
+
+    public function add_customer(){
+        return view("add_customer");
+    }
+
+
+
 
 
 

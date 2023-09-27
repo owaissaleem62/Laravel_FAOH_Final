@@ -35,6 +35,10 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/add_products', "add_products");
           //       browser route         functionname
     Route::get('/product_categorys', "product_category");
+    Route::get('/transection', "transection_tbl");
+    Route::get('/add_customers', "add_customer");
+
+
 
 
 }
