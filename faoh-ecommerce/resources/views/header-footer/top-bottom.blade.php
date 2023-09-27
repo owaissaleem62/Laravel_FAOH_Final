@@ -1,5 +1,4 @@
 
-
 <!doctype html>
 <html class="no-js" lang="zxx">
     
@@ -13,37 +12,37 @@
         <!-- Favicon -->
         <link rel="icon" type="image" href="./images/Favicon.png">
         <!-- Material Design Iconic Font-V2.2.0 -->
-        <link rel="stylesheet" href="css/material-design-iconic-font.min.css">
+        <link rel="stylesheet" href="{{asset('css/material-design-iconic-font.min.css')}}">
         <!-- Font Awesome -->
-        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="{{asset('css/font-awesome.min.css')}}">
         <!-- Font Awesome Stars-->
-        <link rel="stylesheet" href="css/fontawesome-stars.css">
+        <link rel="stylesheet" href="{{asset('css/fontawesome-stars.css')}}">
         <!-- Meanmenu CSS -->
-        <link rel="stylesheet" href="css/meanmenu.css">
+        <link rel="stylesheet" href="{{asset('css/meanmenu.css')}}">
         <!-- owl carousel CSS -->
-        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="{{asset('css/owl.carousel.min.css')}}">
         <!-- Slick Carousel CSS -->
-        <link rel="stylesheet" href="css/slick.css">
+        <link rel="stylesheet" href="{{asset('css/slick.css')}}">
         <!-- Animate CSS -->
-        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="{{asset('css/animate.css')}}">
         <!-- Jquery-ui CSS -->
-        <link rel="stylesheet" href="css/jquery-ui.min.css">
+        <link rel="stylesheet" href="{{asset('css/jquery-ui.min.css')}}">
         <!-- Venobox CSS -->
-        <link rel="stylesheet" href="css/venobox.css">
+        <link rel="stylesheet" href="{{asset('css/venobox.css')}}">
         <!-- Nice Select CSS -->
-        <link rel="stylesheet" href="css/nice-select.css">
+        <link rel="stylesheet" href="{{asset('css/nice-select.css')}}">
         <!-- Magnific Popup CSS -->
-        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="{{asset('css/magnific-popup.css')}}">
         <!-- Bootstrap V4.1.3 Fremwork CSS -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
         <!-- Helper CSS -->
-        <link rel="stylesheet" href="css/helper.css">
+        <link rel="stylesheet" href="{{asset('css/helper.css')}}">
         <!-- Main Style CSS -->
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="{{asset('style.css')}}">
         <!-- Responsive CSS -->
-        <link rel="stylesheet" href="css/responsive.css">
+        <link rel="stylesheet" href="{{asset('css/responsive.css')}}">
         <!-- Modernizr js -->
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="{{asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
     </head>
     <body>
     <!--[if lt IE 8]>
@@ -61,7 +60,7 @@
                             <div class="col-lg-3 col-md-4">
                                 <div class="header-top-left">
                                     <ul class="phone-wrap">
-                                        <li><span>Telephone Enquiry:</span><a href="#"> (021) 000 000 000</a></li>
+                                        <li><span>Telephone Enquiry:</span><a href="{{route('contact')}}"> (021) 000 000 000</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -76,11 +75,11 @@
                                             <div class="setting ht-setting">
                                                 <ul class="ht-setting-list">
                                                     <li>                                                         
-                                                         <a  href="/Login-Register" class="nav-item nav-link">Login</a>
+                                                         <a  href="{{route('login')}}" class="nav-item nav-link">Login</a>
                                                         </li>
-                                                        <li><a href="/checkout">Checkout</a></li>
+                                                        <li><a href="{{route('checkout')}}">Checkout</a></li>
                                                         <li>
-                                                        <a href="/Login-Register" class="nav-item nav-link">Register</a>    
+                                                        <a href="{{route('login')}}" class="nav-item nav-link">Register</a>    
                                                 </ul>
                                             </div>
                                         </li>
@@ -125,7 +124,7 @@
                             <div class="col-lg-3">
                                 <div class="logo pb-sm-30 pb-xs-30" style="margin-top: -54px;">
                                     <a href="/">
-                                        <img src="images/menu/logo/1.png" alt="" width="130px">
+                                        <img src="{{asset('images/menu/logo/1.png')}}" alt="" width="130px">
                                     </a>
                                 </div>
                             </div>
@@ -171,7 +170,7 @@
                                                 <ul class="minicart-product-list">
                                                     <li>
                                                         <a href="single-product.html" class="minicart-product-image">
-                                                            <img src="images/product/small-size/bag 5.jpg" alt="cart products">
+                                                            <img src="{{asset('images/product/small-size/bag 5.jpg')}}" alt="cart products">
                                                         </a>
                                                         <div class="minicart-product-details">
                                                             <h6><a href="single-product.html">Aenean eu tristique</a></h6>
@@ -183,7 +182,7 @@
                                                     </li>
                                                     <li>
                                                         <a href="single-product.html" class="minicart-product-image">
-                                                            <img src="images/product/small-size/bag 6.jpg" alt="cart products">
+                                                            <img src="{{asset('images/product/small-size/bag 6.jpg')}}" alt="cart products">
                                                         </a>
                                                         <div class="minicart-product-details">
                                                             <h6><a href="single-product.html">Aenean eu tristique</a></h6>
@@ -196,10 +195,10 @@
                                                 </ul>
                                                 <p class="minicart-total">SUBTOTAL: <span>£80.00</span></p>
                                                 <div class="minicart-button">
-                                                    <a href="/shopping-cart" class="li-button li-button-fullwidth ">
+                                                    <a href="{{route('shopping_cart')}}" class="li-button li-button-fullwidth ">
                                                         <span>View Full Cart</span>
                                                     </a>
-                                                    <a href="/checkout" class="li-button li-button-fullwidth">
+                                                    <a href="{{route('checkout')}}" class="li-button li-button-fullwidth">
                                                         <span>Checkout</span>
                                                     </a>
                                                 </div>
@@ -224,8 +223,8 @@
                                 <div class="hb-menu">
                                     <nav>
                                         <ul>
-                                            <li><a href="/">Home</a></li>
-                                            <li class="megamenu-holder"><a href="/Shop">Shop</a>
+                                            <li><a href="{{route('home')}}">Home</a></li>
+                                            <li class="megamenu-holder"><a href="{{route('shop')}}">Shop</a>
                                                 <!-- <ul class="megamenu hb-megamenu">
                                                     <li><a href="/Shop">Shop Page Layout</a>
                                                         <ul>
@@ -291,10 +290,10 @@
                                                     </li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="/Wishlist">Wishlist</a></li>
-                                            <li><a href="/shopping-cart">Shopping Cart</a></li>
-                                            <li><a href="/about-us">About Us</a></li>
-                                            <li><a href="/contact">Contact</a></li>
+                                            <li><a href="{{route('wishlist')}}">Wishlist</a></li>
+                                            <li><a href="{{route('shopping_cart')}}">Shopping Cart</a></li>
+                                            <li><a href="{{route('about')}}">About Us</a></li>
+                                            <li><a href="{{route('contact')}}">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -331,7 +330,7 @@
                                 <div class="col-lg-3 col-md-6 col-sm-6 pb-sm-55 pb-xs-55">
                                     <div class="li-shipping-inner-box">
                                         <div class="shipping-icon">
-                                            <img src="images/shipping-icon/1.png" alt="Shipping Icon">
+                                            <img src="{{asset('images/shipping-icon/1.png')}}" alt="Shipping Icon">
                                         </div>
                                         <div class="shipping-text">
                                             <h2>Free Delivery</h2>
@@ -344,7 +343,7 @@
                                 <div class="col-lg-3 col-md-6 col-sm-6 pb-sm-55 pb-xs-55">
                                     <div class="li-shipping-inner-box">
                                         <div class="shipping-icon">
-                                            <img src="images/shipping-icon/2.png" alt="Shipping Icon">
+                                            <img src="{{asset('images/shipping-icon/2.png')}}" alt="Shipping Icon">
                                         </div>
                                         <div class="shipping-text">
                                             <h2>Safe Payment</h2>
@@ -357,7 +356,7 @@
                                 <div class="col-lg-3 col-md-6 col-sm-6 pb-xs-30">
                                     <div class="li-shipping-inner-box">
                                         <div class="shipping-icon">
-                                            <img src="images/shipping-icon/3.png" alt="Shipping Icon">
+                                            <img src="{{asset('images/shipping-icon/3.png')}}" alt="Shipping Icon">
                                         </div>
                                         <div class="shipping-text">
                                             <h2>Shop with Confidence</h2>
@@ -370,7 +369,7 @@
                                 <div class="col-lg-3 col-md-6 col-sm-6 pb-xs-30">
                                     <div class="li-shipping-inner-box">
                                         <div class="shipping-icon">
-                                            <img src="images/shipping-icon/4.png" alt="Shipping Icon">
+                                            <img src="{{asset('images/shipping-icon/4.png')}}" alt="Shipping Icon">
                                         </div>
                                         <div class="shipping-text">
                                             <h2>24/7 Help Center</h2>
@@ -393,7 +392,7 @@
                                 <!-- Begin Footer Logo Area -->
                                 <div class="col-lg-4 col-md-6">
                                     <div class="footer-logo">
-                                        <img src="./images/menu/logo/1.png" alt="Footer Logo" style="width: 130px;">
+                                        <img src="{{asset('./images/menu/logo/1.png')}}" alt="Footer Logo" style="width: 130px;">
                                         <p class="info">
                                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus libero dolor et tenetur earum id suscipit magnam esse nulla beatae commodi natus provident neque, quidem, a quasi praesentium. Non, nobis..
                                         </p>
@@ -530,13 +529,13 @@
                                 <!-- Begin Footer Payment Area -->
                                 <div class="copyright text-center">
                                     <a href="#">
-                                        <img src="images/payment/1.png" alt="">
+                                        <img src="{{asset('images/payment/1.png')}}" alt="">
                                     </a>
                                 </div>
                                 <!-- Footer Payment Area End Here -->
                                 <!-- Begin Copyright Area -->
                                 <div class="copyright text-center pt-25">
-                                    <span><a target="_blank" href="https://www.templateshub.net">FAOH.COM</a></span>
+                                    <span><a target="_blank" href="#">FAOH.COM</a></span>
                                 </div>
                                 <!-- Copyright Area End Here -->
                             </div>
@@ -560,31 +559,31 @@
                                     <div class="product-details-left">
                                         <div class="product-details-images slider-navigation-1">
                                             <div class="lg-image">
-                                                <img src="./images/product/large-size/bag 1.jpg" alt="product image">
+                                                <img src="{{asset('./images/product/large-size/bag 1.jpg')}}" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="./images/product/large-size/bag 2.jpg" alt="product image">
+                                                <img src="{{asset('./images/product/large-size/bag 2.jpg')}}" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="./images/product/large-size/bag 3.jpg" alt="product image">
+                                                <img src="{{asset('./images/product/large-size/bag 3.jpg')}}" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="./images/product/large-size/bag 4.jpg" alt="product image">
+                                                <img src="{{asset('./images/product/large-size/bag 4.jpg')}}" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="./images/product/large-size/bag 5.jpg" alt="product image">
+                                                <img src="{{asset('./images/product/large-size/bag 5.jpg')}}" alt="product image">
                                             </div>
                                             <div class="lg-image">
-                                                <img src="./images/product/large-size/bag 6.jpg" alt="product image">
+                                                <img src="{{asset('./images/product/large-size/bag 6.jpg')}}" alt="product image">
                                             </div>
                                         </div>
                                         <div class="product-details-thumbs slider-thumbs-1">                                        
-                                            <div class="sm-image"><img src="./images/product/small-size/bag 1.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="./images/product/small-size/bag 2.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="./images/product/small-size/bag 3.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="./images/product/small-size/bag 4.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="./images/product/small-size/bag 5.jpg" alt="product image thumb"></div>
-                                            <div class="sm-image"><img src="./images/product/small-size/bag 6.jpg" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 1.jpg')}}" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 2.jpg')}}" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 3.jpg')}}" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 4.jpg')}}" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 5.jpg')}}" alt="product image thumb"></div>
+                                            <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 6.jpg')}}" alt="product image thumb"></div>
                                         </div>
                                     </div>
                                     <!--// Product Details Left -->
@@ -661,47 +660,47 @@
         </div>
         <!-- Body Wrapper End Here -->
         <!-- jQuery-V1.12.4 -->
-        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="{{asset('js/vendor/jquery-1.12.4.min.js')}}"></script>
         <!-- Popper js -->
-        <script src="js/vendor/popper.min.js"></script>
+        <script src="{{asset('js/vendor/popper.min.js')}}"></script>
         <!-- Bootstrap V4.1.3 Fremwork js -->
-        <script src="js/bootstrap.min.js"></script>
+        <script src="{{asset('js/bootstrap.min.js')}}"></script>
         <!-- Ajax Mail js -->
-        <script src="js/ajax-mail.js"></script>
+        <script src="{{asset('js/ajax-mail.js')}}"></script>
         <!-- Meanmenu js -->
-        <script src="js/jquery.meanmenu.min.js"></script>
+        <script src="{{asset('js/jquery.meanmenu.min.js')}}"></script>
         <!-- Wow.min js -->
-        <script src="js/wow.min.js"></script>
+        <script src="{{asset('js/wow.min.js')}}"></script>
         <!-- Slick Carousel js -->
-        <script src="js/slick.min.js"></script>
+        <script src="{{asset('js/slick.min.js')}}"></script>
         <!-- Owl Carousel-2 js -->
-        <script src="js/owl.carousel.min.js"></script>
+        <script src="{{asset('js/owl.carousel.min.js')}}"></script>
         <!-- Magnific popup js -->
-        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="{{asset('js/jquery.magnific-popup.min.js')}}"></script>
         <!-- Isotope js -->
-        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="{{asset('js/isotope.pkgd.min.js')}}"></script>
         <!-- Imagesloaded js -->
-        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="{{asset('js/imagesloaded.pkgd.min.js')}}"></script>
         <!-- Mixitup js -->
-        <script src="js/jquery.mixitup.min.js"></script>
+        <script src="{{asset('js/jquery.mixitup.min.js')}}"></script>
         <!-- Countdown -->
-        <script src="js/jquery.countdown.min.js"></script>
+        <script src="{{asset('js/jquery.countdown.min.js')}}"></script>
         <!-- Counterup -->
-        <script src="js/jquery.counterup.min.js"></script>
+        <script src="{{asset('js/jquery.counterup.min.js')}}"></script>
         <!-- Waypoints -->
-        <script src="js/waypoints.min.js"></script>
+        <script src="{{asset('js/waypoints.min.js')}}"></script>
         <!-- Barrating -->
-        <script src="js/jquery.barrating.min.js"></script>
+        <script src="{{asset('js/jquery.barrating.min.js')}}"></script>
         <!-- Jquery-ui -->
-        <script src="js/jquery-ui.min.js"></script>
+        <script src="{{asset('js/jquery-ui.min.js')}}"></script>
         <!-- Venobox -->
-        <script src="js/venobox.min.js"></script>
+        <script src="{{asset('js/venobox.min.js')}}"></script>
         <!-- Nice Select js -->
-        <script src="js/jquery.nice-select.min.js"></script>
+        <script src="{{asset('js/jquery.nice-select.min.js')}}"></script>
         <!-- ScrollUp js -->
-        <script src="js/scrollUp.min.js"></script>
+        <script src="{{asset('js/scrollUp.min.js')}}"></script>
         <!-- Main/Activator js -->
-        <script src="js/main.js"></script>
+        <script src="{{asset('js/main.js')}}"></script>
     </body>
 
 <!-- index30:23-->

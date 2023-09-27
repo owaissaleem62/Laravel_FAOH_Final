@@ -34,7 +34,7 @@
                                         <tbody>
                                             <tr>
                                                 <td class="li-product-remove"><a href="#"><i class="fa fa-times"></i></a></td>
-                                                <td class="li-product-thumbnail"><a href="#"><img src="./images/wishlist-thumb/bag 1.jpg" alt="" style="width: 30%;"></a></td>
+                                                <td class="li-product-thumbnail"><a href="#"><img src="{{asset('./images/wishlist-thumb/bag 1.jpg')}}" alt="" style="width: 30%;"></a></td>
                                                 <td class="li-product-name"><a href="#">Giro Civilia</a></td>
                                                 <td class="li-product-price"><span class="amount">$23.39</span></td>
                                                 <td class="li-product-stock-status"><span class="in-stock">in stock</span></td>
@@ -42,7 +42,7 @@
                                             </tr>
                                             <tr>
                                                 <td class="li-product-remove"><a href="#"><i class="fa fa-times"></i></a></td>
-                                                <td class="li-product-thumbnail"><a href="#"><img src="./images/wishlist-thumb/wallet 1.jpg" alt="" style="width: 30%;"></a></td>
+                                                <td class="li-product-thumbnail"><a href="#"><img src="{{asset('./images/wishlist-thumb/wallet 1.jpg')}}" alt="" style="width: 30%;"></a></td>
                                                 <td class="li-product-name"><a href="#">Pro Bike Shoes</a></td>
                                                 <td class="li-product-price"><span class="amount">$30.50</span></td>
                                                 <td class="li-product-stock-status"><span class="in-stock">in stock</span></td>
@@ -50,7 +50,7 @@
                                             </tr>
                                             <tr>
                                                 <td class="li-product-remove"><a href="#"><i class="fa fa-times"></i></a></td>
-                                                <td class="li-product-thumbnail"><a href="#"><img src="./images/wishlist-thumb/beauty 1.jpg" alt="" style="width: 30%;"></a></td>
+                                                <td class="li-product-thumbnail"><a href="#"><img src="{{asset('./images/wishlist-thumb/beauty 1.jpg')}}" alt="" style="width: 30%;"></a></td>
                                                 <td class="li-product-name"><a href="#">Nero Urban Shoes</a></td>
                                                 <td class="li-product-price"><span class="amount">$40.19</span></td>
                                                 <td class="li-product-stock-status"><span class="out-stock">out stock</span></td>

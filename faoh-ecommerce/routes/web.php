@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\newcontroller;
+use App\Http\Controllers\AdminController;
+
 
 
 /*
@@ -17,25 +19,31 @@ use App\Http\Controllers\newcontroller;
 
 Route::controller(newcontroller::class)->group(function(){
     Route::get('/', "homePg");
-    Route::get('/about-us', "about");
-    Route::get('/cart', "cart");
-    Route::get('/checkout', "chackOut");
-    Route::get('/contact', "contact");
-    Route::get('/Login-Register', "loginRegister");
-    Route::get('/product-Details', "productDetail");
-    Route::get('/shopping-cart', "shoppingCart");
-    Route::get('/Wishlist', "wishlist");
-    Route::get('/Shop', "shopLeft");
-    Route::get('/Dashboard', "home_dashboard");
-    Route::get('/order_table', "orders_table");
-    Route::get('/add_products', "add_products");
+    Route::get('/home', "homePg")->name('home');
+    Route::get('/about-us', "about")->name('about');
+    Route::get('/cart', "cart")->name('cart');
+    Route::get('/checkout', "chackOut")->name('checkout');
+    Route::get('/contact', "contact")->name('contact');
+    Route::get('/Login-Register', "loginRegister")->name('login');
+    Route::get('/product-Details', "productDetail")->name('product_detail');
+    Route::get('/shopping-cart', "shoppingCart")->name('shopping_cart');
+    Route::get('/Wishlist', "wishlist")->name('wishlist');
+    Route::get('/Shop', "shopLeft")->name('shop');
+    Route::get('/dashboard', "home_dashboard")->name('dashboard');
+    Route::get('/order_table', "orders_table")->name('order_table');
+    Route::get('/add_products', "add_products")->name('add_products');
           //       browser route         functionname
-    Route::get('/product_categorys', "product_category");
-    Route::get('/transection', "transection_tbl");
-    Route::get('/add_customers', "add_customer");
-    Route::get('/user_profile', "profile");
-    Route::get('/admin-login', "admin_login");
-    Route::get('/sys-user', "sys_user");
+    Route::get('/product_categorys', "product_category")->name('product_categorys');
+    Route::get('/transection', "transection_tbl")->name('transection');
+    Route::get('/add_customers', "add_customer")->name('add_customers');
+    Route::get('/user_profile', "profile")->name('user_profile');
+    Route::get('/admin-login', "admin_login")->name('admin-login');
+    Route::post('/admin-login', "makelogin")->name('makelogin');
+    Route::get('/sys-user', "sys_user")->name('sys_user');
+
+
+
+
 
 }
 );

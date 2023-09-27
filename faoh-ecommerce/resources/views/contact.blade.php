@@ -46,7 +46,7 @@
                             <div class="contact-form-content pt-sm-55 pt-xs-55">
                                 <h3 class="contact-page-title">Tell Us Your Message</h3>
                                 <div class="contact-form">
-                                    <form  id="contact-form" action="http://demo.hasthemes.com/limupa-v3/limupa/mail.php" method="post">
+                                    <form  id="contact-form" action="{{asset('http://demo.hasthemes.com/limupa-v3/limupa/mail.php')}}" method="post">
                                         <div class="form-group">
                                             <label>Your Name <span class="required">*</span></label>
                                             <input type="text" name="customerName" id="customername" required>

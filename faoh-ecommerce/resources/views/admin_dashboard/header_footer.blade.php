@@ -12,15 +12,14 @@
     <title>Admin Dashboard</title>
 
     <!-- Custom fonts for this template-->
-    <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link href="{{asset('assets/vendor/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">
+    <link href="{{asset('https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i')}}" rel="stylesheet">
 
-
-       <!-- Custom styles for this page -->
-    <link href="assets/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">  
+    <!-- Custom styles for this page -->
+    <link href="{{asset('assets/vendor/datatables/dataTables.bootstrap4.min.css')}}" rel="stylesheet">  
     <!-- Custom styles for this template-->
-    <link href="assets/css/sb-admin-2.min.css" rel="stylesheet">
-    <link href="assets/css/admin_login.css" rel="stylesheet">
+    <link href="{{asset('assets/css/sb-admin-2.min.css')}}" rel="stylesheet">
+    <link href="{{asset('assets/css/admin_login.css')}}" rel="stylesheet">
 
 
 </head>
@@ -34,8 +33,8 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/Dashboard">
-                <div class="sidebar-brand-text mx-3"><img src=".\assets\img\dashboard_logo.png" alt="" style="width: 205px; margin-top: -5%;"></div>
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{route('dashboard')}}">
+                <div class="sidebar-brand-text mx-3"><img src="{{asset('.\assets\img\dashboard_logo.png')}}" alt="" style="width: 205px; margin-top: -5%;"></div>
             </a>
 
             <!-- Divider -->
@@ -65,7 +64,7 @@
                 </a>
                 <div id="collapseCustomer" class="collapse" aria-labelledby="headingCustomer" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="/add_customers">Add Customer</a>
+                        <a class="collapse-item" href="{{route('add_customers')}}">Add Customer</a>
                     </div>
                 </div>
             </li>
@@ -79,7 +78,7 @@
                 </a>
                 <div id="collapseCategory" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="/product_categorys">Add Categories</a>
+                        <a class="collapse-item" href="{{route('product_categorys')}}">Add Categories</a>
                     </div>
                 </div>
             </li>
@@ -94,7 +93,7 @@
                 <div id="collapseProducts" class="collapse" aria-labelledby="headingProducts"
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="/add_products">Add Products</a>
+                        <a class="collapse-item" href="{{route('add_products')}}">Add Products</a>
                     </div>
                 </div>
             </li>
@@ -109,7 +108,7 @@
                 <div id="collapseOrders" class="collapse" aria-labelledby="headingOrders"
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="/order_table">All Orders</a>
+                        <a class="collapse-item" href="{{route('order_table')}}">All Orders</a>
                     </div>
                 </div>
             </li>
@@ -124,7 +123,7 @@
                 <div id="collapseTransection" class="collapse" aria-labelledby="headingTransection"
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="/transection">All Transection</a>
+                        <a class="collapse-item" href="{{route('transection')}}">All Transection</a>
                     </div>
                 </div>
             </li>
@@ -139,7 +138,7 @@
                 <div id="collapseUserrole" class="collapse" aria-labelledby="headingUserrole"
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="/sys-user">Add User</a>
+                        <a class="collapse-item" href="{{route('sys_user')}}">Add User</a>
                     </div>
                 </div>
             </li>
@@ -282,7 +281,7 @@
             </h6>
             <a class="dropdown-item d-flex align-items-center" href="#">
                 <div class="dropdown-list-image mr-3">
-                    <img class="rounded-circle" src="assets/img/undraw_profile_1.svg"
+                    <img class="rounded-circle" src="{{asset('assets/img/undraw_profile_1.svg')}}"
                         alt="...">
                     <div class="status-indicator bg-success"></div>
                 </div>
@@ -294,7 +293,7 @@
             </a>
             <a class="dropdown-item d-flex align-items-center" href="#">
                 <div class="dropdown-list-image mr-3">
-                    <img class="rounded-circle" src="assets/img/undraw_profile_2.svg"
+                    <img class="rounded-circle" src="{{asset('assets/img/undraw_profile_2.svg')}}"
                         alt="...">
                     <div class="status-indicator"></div>
                 </div>
@@ -306,7 +305,7 @@
             </a>
             <a class="dropdown-item d-flex align-items-center" href="#">
                 <div class="dropdown-list-image mr-3">
-                    <img class="rounded-circle" src="assets/img/undraw_profile_3.svg"
+                    <img class="rounded-circle" src="{{asset('assets/img/undraw_profile_3.svg')}}"
                         alt="...">
                     <div class="status-indicator bg-warning"></div>
                 </div>
@@ -318,7 +317,7 @@
             </a>
             <a class="dropdown-item d-flex align-items-center" href="#">
                 <div class="dropdown-list-image mr-3">
-                    <img class="rounded-circle" src="https://source.unsplash.com/Mv9hjnEUHR4/60x60"
+                    <img class="rounded-circle" src="{{asset('https://source.unsplash.com/Mv9hjnEUHR4/60x60')}}"
                         alt="...">
                     <div class="status-indicator bg-success"></div>
                 </div>
@@ -340,7 +339,7 @@
             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <span class="mr-2 d-none d-lg-inline text-gray-600 small">Admin</span>
             <img class="img-profile rounded-circle"
-                src="assets/img/undraw_profile.svg">
+                src="{{asset('assets/img/undraw_profile.svg')}}">
         </a>
         <!-- Dropdown - User Information -->
         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
@@ -407,7 +406,7 @@
                 <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
                 <div class="modal-footer">
                     <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-                    <a class="btn btn-primary" href="/admin-login">Logout</a>
+                    <a class="btn btn-primary" href="admin-login">Logout</a>
                 </div>
             </div>
         </div>
@@ -416,29 +415,29 @@
     
 
     <!-- Bootstrap core JavaScript-->
-    <script src="assets/vendor/jquery/jquery.min.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="{{asset('assets/vendor/jquery/jquery.min.js')}}"></script>
+    <script src="{{asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
 
     <!-- Core plugin JavaScript-->
-    <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="{{asset('assets/vendor/jquery-easing/jquery.easing.min.js')}}"></script>
 
     <!-- Custom scripts for all pages-->
-    <script src="assets/js/sb-admin-2.min.js"></script>
-    <script src="assets/js/sb-admin-2.min.js"></script>
+    <script src="{{asset('assets/js/sb-admin-2.min.js')}}"></script>
+    <script src="{{asset('assets/js/sb-admin-2.min.js')}}"></script>
 
 
     <!-- Page level plugins -->
-    <script src="assets/vendor/chart.js/Chart.min.js"></script>
+    <script src="{{asset('assets/vendor/chart.js/Chart.min.js')}}"></script>
 
     <!-- Page level custom scripts -->
-    <script src="assets/js/demo/chart-area-demo.js"></script>
-    <script src="assets/js/demo/chart-pie-demo.js"></script>
+    <script src="{{asset('assets/js/demo/chart-area-demo.js')}}"></script>
+    <script src="{{asset('assets/js/demo/chart-pie-demo.js')}}"></script>
 
-    <script src="assets/vendor/datatables/jquery.dataTables.min.js"></script>
-    <script src="assets/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="{{asset('assets/vendor/datatables/jquery.dataTables.min.js')}}"></script>
+    <script src="{{asset('assets/vendor/datatables/dataTables.bootstrap4.min.js')}}"></script>
 
     <!-- Page level custom scripts -->
-    <script src="assets/js/demo/datatables-demo.js"></script>
+    <script src="{{asset('assets/js/demo/datatables-demo.js')}}"></script>
 
 </body>
 
