@@ -19,6 +19,20 @@ use App\Http\Controllers\AdminController;
 
 Route::controller(newcontroller::class)->group(function(){
     Route::get('/', "homePg");
+<<<<<<< HEAD
+    Route::get('/home', [newcontroller::class,'homePg'])->name('home');
+    Route::get('/about-us', [newcontroller::class,'about'])->name('about');
+    Route::get('/cart', [newcontroller::class,'cart'])->name('cart');
+    Route::get('/checkout', [newcontroller::class,'checkout'])->name('checkout');
+    Route::get('/contact', [newcontroller::class,'contact'])->name('contact');
+    Route::get('/Login-Register', [newcontroller::class,'Login_Register'])->name('Login-Register');
+    Route::get('/product-Details', [newcontroller::class,'productDetail'])->name('product_detail');
+    Route::get('/shopping-cart', [newcontroller::class,'shoppingCart'])->name('shopping_cart');
+    Route::get('/Wishlist', [newcontroller::class,'wishlist'])->name('wishlist');
+    Route::get('/Shop', [newcontroller::class,'shopLeft'])->name('shop');
+    Route::get('/order_table', [newcontroller::class,'orders_table'])->name('order_table');
+    Route::get('/add_products', [newcontroller::class,'add_products'])->name('add_products');
+=======
     Route::get('/home', "homePg")->name('home');
     Route::get('/about-us', "about")->name('about');
     Route::get('/cart', "cart")->name('cart');
@@ -31,28 +45,25 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/dashboard', "home_dashboard")->name('dashboard');
     Route::get('/order_table', "orders_table")->name('order_table');
     Route::get('/add_products', "add_products")->name('add_products');
-
-    //User Registration
     Route::get('/Login-Register', "user_login")->name('user_login');
     Route::post('/Login-Register', "user_store")->name('user_store');
-    Route::post('/user-Login', "loginCheck")->name('loginCheck');
-    Route::get('/user-Logout', "logout")->name('user_logout');
-
-    // Route::post('/Login-Register', "loginCheck")->name('loginCheck');
 
 
+>>>>>>> 8117b578521759fa4ed6d72113d568aeaf9ce84b
           //       browser route         functionname
-    Route::get('/product_categorys', "product_category")->name('product_categorys');
-    Route::get('/transection', "transection_tbl")->name('transection');
-    Route::get('/add_customers', "add_customer")->name('add_customers');
-    Route::get('/user_profile', "profile")->name('user_profile');
-    Route::get('/admin-login', "admin_login")->name('admin-login');
-    Route::post('/admin-login', "makelogin")->name('makelogin');
-    Route::get('/sys-user', "sys_user")->name('sys_user');
+    Route::get('/product_categorys', [newcontroller::class,'product_category'])->name('product_categorys');
+    Route::get('/transection', [newcontroller::class,'transection_tbl'])->name('transection');
+    Route::get('/add_customers', [newcontroller::class,'add_customer'])->name('add_customers');
+    Route::get('/user_profile', [newcontroller::class,'profile'])->name('user_profile');
+    Route::get('/admin-login', [AdminController::class,'admin_login'])->name('admin-login');
+    Route::post('/admin-login', [AdminController::class,'makelogin'])->name('makelogin');
+    Route::get('/sys-user', [newcontroller::class,'sys_user'])->name('sys_user');
 
+    Route::group(['middleware' => 'auth'], function (){
+    Route::get('/dashboard', [AdminController::class,'home_dashboard'])->name('dashboard');
+    Route::get('/admin-logout', [AdminController::class,'admin_logout'])->name('admin-logout');
+        
+    
+    });
 
-
-
-
-}
-);
+});
