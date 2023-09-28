@@ -1,6 +1,10 @@
 <?php
+
+<<<<<<< HEAD
+=======
 namespace App\Http\Controllers;
 
+>>>>>>> parent of f055201 (admin login & logout session complete)
 use Illuminate\Http\Request;
 use Hash;
 use Illuminate\Http\Facades\Auth;
