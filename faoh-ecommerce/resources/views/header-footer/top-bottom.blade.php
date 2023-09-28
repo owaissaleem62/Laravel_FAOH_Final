@@ -75,19 +75,11 @@
                                             <div class="setting ht-setting">
                                                 <ul class="ht-setting-list">
                                                     <li>                                                         
-<<<<<<< HEAD
-                                                         <a  href="{{route('Login-Register')}}" class="nav-item nav-link">Login</a>
+                                                         <a  href="{{route('login')}}" class="nav-item nav-link">Login</a>
                                                         </li>
                                                         <li><a href="{{route('checkout')}}">Checkout</a></li>
                                                         <li>
-                                                        <a href="{{route('Login-Register')}}" class="nav-item nav-link">Register</a>    
-=======
-                                                         <a  href="{{route('user_login')}}" class="nav-item nav-link">Login</a>
-                                                        </li>
-                                                        <li><a href="{{route('checkout')}}">Checkout</a></li>
-                                                        <li>
-                                                        <a href="{{route('user_login')}}" class="nav-item nav-link">Register</a>    
->>>>>>> 8117b578521759fa4ed6d72113d568aeaf9ce84b
+                                                        <a href="{{route('login')}}" class="nav-item nav-link">Register</a>    
                                                 </ul>
                                             </div>
                                         </li>

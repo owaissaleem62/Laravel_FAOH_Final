@@ -1329,7 +1329,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/wallet 12.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/wallet 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1376,7 +1376,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/wallet 13.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/wallet 13.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1417,7 +1417,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/wallet 14.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/wallet 14.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1458,7 +1458,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/wallet 15.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/wallet 15.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1499,7 +1499,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/wallet 16.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/wallet 16.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1540,7 +1540,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/wallet 17.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/wallet 17.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1581,7 +1581,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/wallet 1.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/wallet 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1648,7 +1648,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 1.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1689,7 +1689,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 2.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1730,7 +1730,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 3.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1771,7 +1771,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 4.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1812,7 +1812,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 5.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1853,7 +1853,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 6.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1900,7 +1900,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 1.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1941,7 +1941,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 2.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -1982,7 +1982,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 3.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2023,7 +2023,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 4.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2064,7 +2064,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 5.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2105,7 +2105,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 6.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2152,7 +2152,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 1.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2193,7 +2193,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 2.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2234,7 +2234,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 3.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2275,7 +2275,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 4.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2316,7 +2316,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 5.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2357,7 +2357,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/beauty 6.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/beauty 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2441,7 +2441,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 1.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2482,7 +2482,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 2.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2523,7 +2523,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 3.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2564,7 +2564,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 4.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2605,7 +2605,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 5.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2646,7 +2646,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 6.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2693,7 +2693,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 12.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2734,7 +2734,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 11.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2777,7 +2777,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 10.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 10.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2818,7 +2818,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 9.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2861,7 +2861,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 8.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 8.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2902,7 +2902,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 7.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2951,7 +2951,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 3.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -2992,7 +2992,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 5.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3033,7 +3033,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 7.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3074,7 +3074,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 9.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3117,7 +3117,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 11.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3158,7 +3158,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/bag 12.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/bag 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3227,7 +3227,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 1.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3268,7 +3268,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 2.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3309,7 +3309,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 3.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3350,7 +3350,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 4.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3391,7 +3391,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 5.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3432,7 +3432,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 6.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3479,7 +3479,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 7.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3520,7 +3520,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 8.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 8.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3561,7 +3561,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 9.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3602,7 +3602,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 10.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 10.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3643,7 +3643,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 11.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3684,7 +3684,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 12.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3731,7 +3731,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 13.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 13.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3772,7 +3772,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 14.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 14.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3813,7 +3813,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 15.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 15.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3854,7 +3854,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 16.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 16.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3895,7 +3895,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 17.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 17.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>
@@ -3936,7 +3936,7 @@
                                         <div class="single-product-wrap">
                                             <div class="product-image">
                                                 <a href="{{route('shop')}}">
-                                                    <img src="{{asset('images/product/large-size/card 18.jpg')}}" alt="Li's Product Image">
+                                                    <img src="images/product/large-size/card 18.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
                                             </div>

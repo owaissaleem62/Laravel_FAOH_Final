@@ -1,38 +1,30 @@
 <?php
-namespace App\Http\Controllers;
 
+namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Hash;
-use Illuminate\Support\Facades\Auth;
-
-
+use Illuminate\Http\Facades\Auth;
 
 class AdminController extends Controller
 {
-    public function admin_login(){
+    public function login(){
         return view('admin_login');
     }
 
-    public function makelogin(Request $request){
+    public function makeLogin(Requst $requst){
         $data= array(
-            'email'=>$request->email,
-            'password'=>$request->password
+            'email'=>$requst->email,
+            'password'=>$requst->password
+
         );
     if(Auth::attempt($data)){
-        return redirect()->route('dashboard');
+        echo "Login Success";
     }else{
         return back()->withErrors(['Messege'=>'invalid email & password']);
     }
-}
 
-    public function home_dashboard(){
-        return view('home_dashboard');
     }
 
-    public function admin_logout(){
-        Auth::logout();
-        return redirect()->route('admin-login');
-    }
 
 }
