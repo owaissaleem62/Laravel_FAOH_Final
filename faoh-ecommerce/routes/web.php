@@ -31,8 +31,14 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/dashboard', "home_dashboard")->name('dashboard');
     Route::get('/order_table', "orders_table")->name('order_table');
     Route::get('/add_products', "add_products")->name('add_products');
+
+    //User Registration
     Route::get('/Login-Register', "user_login")->name('user_login');
     Route::post('/Login-Register', "user_store")->name('user_store');
+    Route::post('/user-Login', "loginCheck")->name('loginCheck');
+    Route::get('/user-Logout', "logout")->name('user_logout');
+
+    // Route::post('/Login-Register', "loginCheck")->name('loginCheck');
 
 
           //       browser route         functionname

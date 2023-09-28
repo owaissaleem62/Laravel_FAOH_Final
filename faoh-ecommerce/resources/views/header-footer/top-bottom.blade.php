@@ -1,7 +1,7 @@
 
 <!doctype html>
 <html class="no-js" lang="zxx">
-    
+
 <!-- index28:48-->
 <head>
         <meta charset="utf-8">
@@ -74,12 +74,16 @@
                                             <div class="ht-setting-trigger"><span>Setting</span></div>
                                             <div class="setting ht-setting">
                                                 <ul class="ht-setting-list">
-                                                    <li>                                                         
+                                                    <li>
+                                                        @if (Auth::user())
+                                                        <a  href="{{route('user_logout')}}" class="nav-item nav-link">Log out</a>
+                                                        @else
                                                          <a  href="{{route('user_login')}}" class="nav-item nav-link">Login</a>
                                                         </li>
                                                         <li><a href="{{route('checkout')}}">Checkout</a></li>
                                                         <li>
-                                                        <a href="{{route('user_login')}}" class="nav-item nav-link">Register</a>    
+                                                        <a href="{{route('user_login')}}" class="nav-item nav-link">Register</a>
+                                                        @endif
                                                 </ul>
                                             </div>
                                         </li>
@@ -134,13 +138,13 @@
                                 <!-- Begin Header Middle Searchbox Area -->
                                 <form action="#" class="hm-searchbox">
                                     <select class="nice-select select-search-category">
-                                        <option value="0">All</option>                                              
-                                        <option value="17">Hand Bags</option>                    
-                                        <option value="20">Beauty Products</option>                     
-                                        <option value="21">Wallet</option>                        
-                                        <option value="22">Gift Articles</option>                
-                                        <option value="23">Greeding Cards</option>                     
-                                        <option value="24">Files</option>                       
+                                        <option value="0">All</option>
+                                        <option value="17">Hand Bags</option>
+                                        <option value="20">Beauty Products</option>
+                                        <option value="21">Wallet</option>
+                                        <option value="22">Gift Articles</option>
+                                        <option value="23">Greeding Cards</option>
+                                        <option value="24">Files</option>
                                     </select>
                                     <input type="text" placeholder="Enter your search key ...">
                                     <button class="li-btn" type="submit"><i class="fa fa-search"></i></button>
@@ -305,7 +309,7 @@
                 <!-- Header Bottom Area End Here -->
                 <!-- Begin Mobile Menu Area -->
                 <div class="mobile-menu-area d-lg-none d-xl-none col-12">
-                    <div class="container"> 
+                    <div class="container">
                         <div class="row">
                             <div class="mobile-menu">
                             </div>
@@ -577,7 +581,7 @@
                                                 <img src="{{asset('./images/product/large-size/bag 6.jpg')}}" alt="product image">
                                             </div>
                                         </div>
-                                        <div class="product-details-thumbs slider-thumbs-1">                                        
+                                        <div class="product-details-thumbs slider-thumbs-1">
                                             <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 1.jpg')}}" alt="product image thumb"></div>
                                             <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 2.jpg')}}" alt="product image thumb"></div>
                                             <div class="sm-image"><img src="{{asset('./images/product/small-size/bag 3.jpg')}}" alt="product image thumb"></div>
@@ -655,7 +659,7 @@
                         </div>
                     </div>
                 </div>
-            </div>   
+            </div>
             <!-- Quick View | Modal Area End Here -->
         </div>
         <!-- Body Wrapper End Here -->

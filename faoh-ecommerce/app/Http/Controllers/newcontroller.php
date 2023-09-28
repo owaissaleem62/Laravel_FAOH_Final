@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 use Hash;
 use App\Models\user;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class newcontroller extends Controller
 {
@@ -86,15 +87,36 @@ class newcontroller extends Controller
     public function user_login(){
         return view("login-register");
     }
-    public function user_store(Reqest $request ){
+
+    public function loginCheck(Request $request){
+        $data = array(
+            'email' => $request->email,
+            'password' => $request->password
+        );
+        if(Auth::attempt($data)){
+            return redirect()->route('home');
+        }else{
+            return back()->withErrors(['message'=>'Invalid email or password']);
+        }
+    }
+
+
+
+    public function user_store(Request $request){
      $data = array(
         'name' => $request->first_name.' '.$request->last_name,
-        'emai' => $request->email,
+        'email' => $request->email,
         'password' => Hash::make($request->password),
         'role' => 'user'
      );
-     dd($data);
+     $user = User::create($data);
+     return redirect()->route('user_login');
     }
 
+
+    public function logout() {
+        Auth::logout();
+        return redirect()->route('user_login');
+    }
 }
 
