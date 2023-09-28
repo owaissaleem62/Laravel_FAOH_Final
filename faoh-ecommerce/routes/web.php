@@ -4,8 +4,6 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\newcontroller;
 use App\Http\Controllers\AdminController;
 
-
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -19,7 +17,6 @@ use App\Http\Controllers\AdminController;
 
 Route::controller(newcontroller::class)->group(function(){
     Route::get('/', "homePg");
-<<<<<<< HEAD
     Route::get('/home', [newcontroller::class,'homePg'])->name('home');
     Route::get('/about-us', [newcontroller::class,'about'])->name('about');
     Route::get('/cart', [newcontroller::class,'cart'])->name('cart');
@@ -32,24 +29,6 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/Shop', [newcontroller::class,'shopLeft'])->name('shop');
     Route::get('/order_table', [newcontroller::class,'orders_table'])->name('order_table');
     Route::get('/add_products', [newcontroller::class,'add_products'])->name('add_products');
-=======
-    Route::get('/home', "homePg")->name('home');
-    Route::get('/about-us', "about")->name('about');
-    Route::get('/cart', "cart")->name('cart');
-    Route::get('/checkout', "chackOut")->name('checkout');
-    Route::get('/contact', "contact")->name('contact');
-    Route::get('/product-Details', "productDetail")->name('product_detail');
-    Route::get('/shopping-cart', "shoppingCart")->name('shopping_cart');
-    Route::get('/Wishlist', "wishlist")->name('wishlist');
-    Route::get('/Shop', "shopLeft")->name('shop');
-    Route::get('/dashboard', "home_dashboard")->name('dashboard');
-    Route::get('/order_table', "orders_table")->name('order_table');
-    Route::get('/add_products', "add_products")->name('add_products');
-    Route::get('/Login-Register', "user_login")->name('user_login');
-    Route::post('/Login-Register', "user_store")->name('user_store');
-
-
->>>>>>> 8117b578521759fa4ed6d72113d568aeaf9ce84b
           //       browser route         functionname
     Route::get('/product_categorys', [newcontroller::class,'product_category'])->name('product_categorys');
     Route::get('/transection', [newcontroller::class,'transection_tbl'])->name('transection');
