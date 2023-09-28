@@ -2,22 +2,19 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Category;
+use App\Models\product;
 use Illuminate\Http\Request;
 
-class CategoryController extends Controller
+class ProductController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
-
-
-
     public function index()
     {
-        $category = Category::all();
-        return view('add_product', compact('category'));
+        //
     }
+
     /**
      * Show the form for creating a new resource.
      */
@@ -29,18 +26,15 @@ class CategoryController extends Controller
     /**
      * Store a newly created resource in storage.
      */
-
     public function store(Request $request)
     {
-        $category = new Category;
-        $category->CategoryName = $request->input('categories');
-        $category->save();
-        return redirect()->back()->with('status','Category Added Successfully');
+        //
     }
+
     /**
      * Display the specified resource.
      */
-    public function show(Category $category)
+    public function show(product $product)
     {
         //
     }
@@ -48,7 +42,7 @@ class CategoryController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Category $category)
+    public function edit(product $product)
     {
         //
     }
@@ -56,7 +50,7 @@ class CategoryController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, Category $category)
+    public function update(Request $request, product $product)
     {
         //
     }
@@ -64,7 +58,7 @@ class CategoryController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Category $category)
+    public function destroy(product $product)
     {
         //
     }

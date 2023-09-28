@@ -3,8 +3,12 @@
 
 <div class="col-md-6 offset-md-2">
     <!-- Main Content -->
-    <form action="#">
-  
+
+    @if (session('status'))
+    <h6 class="alert alert-success">{{ session('status') }}</h6>
+    @endif
+    <form  action="{{ url('add-category') }}" method="POST">
+        @csrf
   <div class="mb-3 mt-3">
     <label for="categories" class="form-label">Categories Name:</label>
     <input type="text" class="form-control" id="categories" placeholder="Enter categories" name="categories" required>

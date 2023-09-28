@@ -4,7 +4,7 @@
 <div class="col-md-6 offset-md-2">
     <!-- Main Content -->
     <form action="#">
-  
+
   <div class="mb-3 mt-3">
     <label for="title" class="form-label">Title:</label>
     <input type="text" class="form-control" id="title" placeholder="Enter title" name="title" required>
@@ -27,10 +27,21 @@
   </div>
 
   <div class="mb-3 mt-3">
+    <label for="category_id" class="form-label">Category:</label>
+    <select name="category_id" id="category_id" class="form-control">
+        <option selected disabled>Choose Category</option>
+        @foreach ($category as $item)
+       <option value="{{ $item->categoryID }}">{{ $item->CategoryName }}</option>
+       @endforeach
+   </select>
+
+  </div>
+
+  <div class="mb-3 mt-3">
     <label for="image" class="form-label">Product image:</label>
     <input type="file" class="form-control" id="image"  name="image" required>
   </div>
- 
+
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 </div>
