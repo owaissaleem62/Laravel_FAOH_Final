@@ -17,7 +17,8 @@ class AdminController extends Controller
     public function makelogin(Request $request){
         $data= array(
             'email'=>$request->email,
-            'password'=>$request->password
+            'password'=>$request->password,
+            'role'=>'admin'
         );
     if(Auth::attempt($data)){
         return redirect()->route('dashboard');

@@ -22,13 +22,19 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/cart', [newcontroller::class,'cart'])->name('cart');
     Route::get('/checkout', [newcontroller::class,'checkout'])->name('checkout');
     Route::get('/contact', [newcontroller::class,'contact'])->name('contact');
-    Route::get('/Login-Register', [newcontroller::class,'Login_Register'])->name('Login-Register');
+    // Route::get('/Login-Register', [newcontroller::class,'Login_Register'])->name('Login-Register');
     Route::get('/product-Details', [newcontroller::class,'productDetail'])->name('product_detail');
     Route::get('/shopping-cart', [newcontroller::class,'shoppingCart'])->name('shopping_cart');
     Route::get('/Wishlist', [newcontroller::class,'wishlist'])->name('wishlist');
     Route::get('/Shop', [newcontroller::class,'shopLeft'])->name('shop');
     Route::get('/order_table', [newcontroller::class,'orders_table'])->name('order_table');
     Route::get('/add_products', [newcontroller::class,'add_products'])->name('add_products');
+
+//login register
+    Route::get('/Login-Register', "user_login")->name('user_login');
+    Route::post('/Login-Register', "user_store")->name('user_store');
+    Route::post('/user-Login', "loginCheck")->name('loginCheck');
+    Route::get('/user-Logout', "logout")->name('user_logout');
           //       browser route         functionname
     Route::get('/product_categorys', [newcontroller::class,'product_category'])->name('product_categorys');
     Route::get('/transection', [newcontroller::class,'transection_tbl'])->name('transection');
@@ -41,8 +47,8 @@ Route::controller(newcontroller::class)->group(function(){
     Route::group(['middleware' => 'auth'], function (){
     Route::get('/dashboard', [AdminController::class,'home_dashboard'])->name('dashboard');
     Route::get('/admin-logout', [AdminController::class,'admin_logout'])->name('admin-logout');
-        
-    
+
+
     });
 
 });
