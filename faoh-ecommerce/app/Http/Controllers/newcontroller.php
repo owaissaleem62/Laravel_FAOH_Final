@@ -1,8 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use Hash;
-use App\Models\user;
+
 use Illuminate\Http\Request;
 
 class newcontroller extends Controller
@@ -28,6 +27,9 @@ class newcontroller extends Controller
         return view("index");
     }
 
+    public function loginRegister(){
+        return view("login-register");
+    }
 
     public function productDetail(){
         return view("product-details");
@@ -83,6 +85,7 @@ class newcontroller extends Controller
     }
 
 
+<<<<<<< HEAD
     public function user_login(){
         return view("login-register");
     }
@@ -96,5 +99,7 @@ class newcontroller extends Controller
      dd($data);
     }
 
+=======
+>>>>>>> parent of f055201 (admin login & logout session complete)
 }
 
