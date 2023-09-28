@@ -24,7 +24,6 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/cart', "cart")->name('cart');
     Route::get('/checkout', "chackOut")->name('checkout');
     Route::get('/contact', "contact")->name('contact');
-    Route::get('/Login-Register', "loginRegister")->name('login');
     Route::get('/product-Details', "productDetail")->name('product_detail');
     Route::get('/shopping-cart', "shoppingCart")->name('shopping_cart');
     Route::get('/Wishlist', "wishlist")->name('wishlist');
@@ -32,6 +31,10 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/dashboard', "home_dashboard")->name('dashboard');
     Route::get('/order_table', "orders_table")->name('order_table');
     Route::get('/add_products', "add_products")->name('add_products');
+    Route::get('/Login-Register', "user_login")->name('user_login');
+    Route::post('/Login-Register', "user_store")->name('user_store');
+
+
           //       browser route         functionname
     Route::get('/product_categorys', "product_category")->name('product_categorys');
     Route::get('/transection', "transection_tbl")->name('transection');
