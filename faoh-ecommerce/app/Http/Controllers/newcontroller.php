@@ -1,7 +1,8 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Hash;
+use App\Models\user;
 use Illuminate\Http\Request;
 
 class newcontroller extends Controller
@@ -27,9 +28,6 @@ class newcontroller extends Controller
         return view("index");
     }
 
-    public function loginRegister(){
-        return view("login-register");
-    }
 
     public function productDetail(){
         return view("product-details");
@@ -47,9 +45,9 @@ class newcontroller extends Controller
         return view("wishlist");
     }
 
-    public function home_dashboard(){
-        return view("home_dashboard");
-    }
+    // public function home_dashboard(){
+    //     return view("home_dashboard");
+    // }
 
     public function orders_table(){
         return view("orders_tbl");
@@ -76,14 +74,30 @@ class newcontroller extends Controller
         return view("profile");
     }
 
-    public function admin_login(){
-        return view("admin_login");
+    public function Login_Register(){
+        return view("Login-Register");
     }
 
     public function sys_user(){
         return view("sys_user");
     }
 
+<<<<<<< HEAD
+=======
 
+    public function user_login(){
+        return view("login-register");
+    }
+    public function user_store(Reqest $request ){
+     $data = array(
+        'name' => $request->first_name.' '.$request->last_name,
+        'emai' => $request->email,
+        'password' => Hash::make($request->password),
+        'role' => 'user'
+     );
+     dd($data);
+    }
+
+>>>>>>> 8117b578521759fa4ed6d72113d568aeaf9ce84b
 }
 
