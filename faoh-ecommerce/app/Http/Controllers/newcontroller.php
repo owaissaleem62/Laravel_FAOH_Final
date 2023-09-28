@@ -81,3 +81,4 @@ class newcontroller extends Controller
     public function sys_user(){
         return view("sys_user");
     }
+}
