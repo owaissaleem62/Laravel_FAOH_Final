@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 use Hash;
 use App\Models\user;
 use Illuminate\Http\Request;
+use App\Models\product;
 use Illuminate\Support\Facades\Auth;
 use App\Models\Category;
 class newcontroller extends Controller
@@ -68,6 +69,7 @@ class newcontroller extends Controller
         return view("transection_tbl");
     }
 
+   
     public function add_customer(){
         return view("add_customer");
     }
