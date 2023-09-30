@@ -39,7 +39,6 @@
                         <td>{{$data_store->categoryID}}</td>
                         <td>{{$data_store->CategoryName}}</td>
                         <td><a href="{{ url('product_categorys/'.$data_store->categoryID) }}" class="btn btn-danger btn-sm">Delete</a></td>
-                        <td></td>
                     </tr>
                 @endforeach
                 </tbody>
