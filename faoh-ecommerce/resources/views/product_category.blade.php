@@ -17,7 +17,7 @@
 </form>
 </div>
 
-<div class="container-fluid" style="margin-top: -15%;">
+<div  style="position: relative; bottom:20%;" class="container-fluid mb-5 finne"   >
         <div class="card-header py-3 card shadow mb-4">
         <h6 class="m-0 font-weight-bold text-primary">All Categories Detail</h6>
     </div>
@@ -30,49 +30,18 @@
                     <tr>
                         <th>S.no</th>
                         <th>Categories</th>
-                        <th>Code</th>
-                        <th>Status</th>
-                        <th>Action</th>
+                        <th>Delete</th>
                     </tr>
                 </thead>
-                <tfoot>
-                    <tr>
-                        <th>S.no</th>
-                        <th>Categories</th>
-                        <th>Code</th>
-                        <th>Status</th>
-                        <th>Action</th>
-                    </tr>
-                </tfoot>
                 <tbody>
+                @foreach ($category as $data_store)
                     <tr>
-                        <td>1</td>
-                        <td>Hand Bag</td>
-                        <td>CO023001</td>
-                        <td>Active</td>
+                        <td>{{$data_store->categoryID}}</td>
+                        <td>{{$data_store->CategoryName}}</td>
+                        <td><a href="{{ url('product_categorys/'.$data_store->categoryID) }}" class="btn btn-danger btn-sm">Delete</a></td>
                         <td></td>
                     </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Men Wallet</td>
-                        <td>CO023002</td>
-                        <td>Active</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Beauty Product</td>
-                        <td>CO023003</td>
-                        <td>Active</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td>Greeding Cards</td>
-                        <td>CO023004</td>
-                        <td>Active</td>
-                        <td></td>
-                    </tr>
+                @endforeach
                 </tbody>
             </table>
         </div>

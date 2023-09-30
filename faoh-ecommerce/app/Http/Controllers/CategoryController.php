@@ -18,6 +18,14 @@ class CategoryController extends Controller
         $category = Category::all();
         return view('add_product', compact('category'));
     }
+
+    public function destroy($categoryID)
+    {
+        $category = Category::find($categoryID);
+        $category->delete();
+        return redirect()->back()->with('status','Category Deleted Successfully');
+    }
+
     /**
      * Show the form for creating a new resource.
      */
@@ -64,8 +72,5 @@ class CategoryController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Category $category)
-    {
-        //
-    }
+    
 }

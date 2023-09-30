@@ -50,6 +50,9 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/dashboard', [AdminController::class,'home_dashboard'])->name('dashboard');
     Route::get('/admin-logout', [AdminController::class,'admin_logout'])->name('admin-logout');
     Route::post('add-category', [CategoryController::class, 'store']);
+    Route::get('product_categorys/{categoryID}', [CategoryController::class, 'destroy']);
+
+
 
 
     });

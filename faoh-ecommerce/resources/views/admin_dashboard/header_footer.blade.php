@@ -56,7 +56,7 @@
             </div> -->
 
             <!-- Nav Item - Pages Manage Customer Section Menu -->
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseCustomer"
                     aria-expanded="true" aria-controls="collapseCustomer">
                     <i class="fas fa-fw fa-cog"></i>
@@ -67,7 +67,7 @@
                         <a class="collapse-item" href="{{route('add_customers')}}">Add Customer</a>
                     </div>
                 </div>
-            </li>
+            </li> -->
 
             <!-- Nav Item - Pages Manage Categories Section Menu -->
             <li class="nav-item">

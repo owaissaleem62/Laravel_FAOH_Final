@@ -5,7 +5,7 @@ use Hash;
 use App\Models\user;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-
+use App\Models\Category;
 class newcontroller extends Controller
 {
 
@@ -60,7 +60,8 @@ class newcontroller extends Controller
 
     public function product_category(){
         //filename.blade.php
-        return view("product_category");
+        $category = Category::all();
+        return view("product_category" , compact('category'));
     }
 
     public function transection_tbl(){
