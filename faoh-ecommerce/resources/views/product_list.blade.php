@@ -22,29 +22,17 @@
                         <th>Action</th>
                     </tr>
                 </thead>
-                <tfoot>
-                    <tr>
-                        <th>S.no</th>
-                        <th>Title</th>
-                        <th>Product Code</th>
-                        <th>Price</th>
-                        <th>Quantity</th>
-                        <th>Description</th>
-                        <th>Image</th>
-                        <th>Action</th>
-                    </tr>
-                </tfoot>
                 <tbody>
-                @foreach ($product as $product_store)
+                @foreach ($product as $key=> $product_store)
                     <tr>
-                        <td>{{$product_store->id}}</td>
+                        <td>{{$key+1}}</td>
                         <td>{{$product_store->Title}}</td>
                         <td>{{$product_store->Code}}</td>
                         <td>{{$product_store->price}}</td>
                         <td>{{$product_store->quantity}}</td>
                         <td>{{$product_store->Description}}</td>
                         <td>
-                        <img class="" style="width: 100%;height:300px;" src="Uploadimages/{{$product_store->image}}" alt="Card image cap">
+                        <img class="" style="width: 100%;height:100px;" src="Uploadimages/{{$product_store->image}}" alt="Card image cap">
                         </td>
                         <td>{{$product_store->CategoryID}}</td>
                     </tr>
