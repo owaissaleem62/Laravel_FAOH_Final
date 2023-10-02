@@ -32,7 +32,7 @@
                         <td>{{$product_store->quantity}}</td>
                         <td>{{$product_store->Description}}</td>
                         <td><img class="" style="width: 100%;height:100px;" src="Uploadimages/{{$product_store->image}}" alt="Card image cap"></td>
-                        <td>{{$product_store->CategoryID}}</td>
+                        <td>{{$product_store->categoryID}}</td>
                         <td></td>
                     </tr>
                 @endforeach
