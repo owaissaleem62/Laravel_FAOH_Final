@@ -4996,7 +4996,8 @@ span.required {
   min-height: 30px;
 }
 .product-image > a img {
-  width: 100%;
+  width: auto;
+  max-height: 250px;
 }
 .shop-products-wrapper .tab-content .tab-pane.active {
     display: block;

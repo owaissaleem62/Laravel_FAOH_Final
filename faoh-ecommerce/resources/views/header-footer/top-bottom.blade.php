@@ -171,8 +171,8 @@
                                         <!-- Begin Header Mini Cart Area -->
                                         <li class="hm-minicart">
                                         <?php
-            $cartItems = session('cart') ?? [];
-            ?>
+                                            $cartItems = session('cart') ?? [];
+                                            ?>
                                             <div class="hm-minicart-trigger">
                                                 <span class="item-icon"></span>
                                                 <span class="item-text">£80.00
@@ -181,27 +181,17 @@
                                                 </span>
                                             </div>
                                             <span></span>
+                                            @foreach($product as $pro)
                                             <div class="minicart">
                                                 <ul class="minicart-product-list">
                                                     <li>
-                                                        <a href="single-product.html" class="minicart-product-image">
-                                                            <img src="{{asset('images/product/small-size/bag 5.jpg')}}" alt="cart products">
+                                                        <a href="#" class="minicart-product-image">
+                                                            <img src="Uploadimages/{{$pro->image}}" alt="cart products">
                                                         </a>
                                                         <div class="minicart-product-details">
-                                                            <h6><a href="single-product.html">Aenean eu tristique</a></h6>
-                                                            <span>£40 x 1</span>
-                                                        </div>
-                                                        <button class="close" title="Remove">
-                                                            <i class="fa fa-close"></i>
-                                                        </button>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single-product.html" class="minicart-product-image">
-                                                            <img src="{{asset('images/product/small-size/bag 6.jpg')}}" alt="cart products">
-                                                        </a>
-                                                        <div class="minicart-product-details">
-                                                            <h6><a href="single-product.html">Aenean eu tristique</a></h6>
-                                                            <span>£40 x 1</span>
+                                                            <h6><a class="product_name">{{$pro->Title}}</a></h6>
+                                                            <span style="color: black;">{{$pro->quantity}}</span>
+                                                            <span style="color: black;">{{$pro->price}}</span>
                                                         </div>
                                                         <button class="close" title="Remove">
                                                             <i class="fa fa-close"></i>
@@ -218,6 +208,7 @@
                                                     </a>
                                                 </div>
                                             </div>
+                                            @endforeach
                                         </li>
                                         <!-- Header Mini Cart Area End Here -->
                                     </ul>

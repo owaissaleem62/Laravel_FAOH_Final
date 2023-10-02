@@ -33,19 +33,20 @@
                                         </thead>
                                         <tbody>
                                         @php $total = 0 @endphp
-                                        @foreach(session('cart') as $id => $details)
+                                        @foreach(session('cart') as $id => $pro)
                                             @php
                                                 // Calculate the total price for each product
                                          
-                                                $image = isset($details['image']) ? asset('images/' . $details['image']) : '';
-                                                $subtotal = $details['price'] * $details['quantity'];
+                                                $image = isset($pro['image']) ? asset('images/' . $pro['image']) : '';
+                                                $subtotal = $pro['price'] * $pro['quantity'];
                                                 $total += $subtotal;
                                             @endphp
                                             <tr>
                                                 <td class="li-product-remove"><a href="#"><i class="fa fa-times"></i></a></td>
-                                                <td class="li-product-thumbnail"><a href="#"><img src="{{asset('images/product/small-size/bag 1.jpg')}}" alt="Li's Product Image" style="width: 30%;"></a></td>
-                                                <td class="li-product-name"><a href="#">{{ $details['Title'] }}</a></td>
-                                                <td class="li-product-price"><span class="amount">{{ $details['price'] }}</span></td>
+                                                <td class="li-product-thumbnail"><a href="#">@if($image)
+                                                <img src="{{ $pro['image'] }}" alt="Li's Product Image" style="width: 30%;"></a>@endif</td>
+                                                <td class="li-product-name"><a href="#">{{ $pro['Title'] }}</a></td>
+                                                <td class="li-product-price"><span class="amount">{{ $pro['price'] }}</span></td>
                                                 <td class="quantity">
                                                     <label>Quantity</label>
                                                     <div class="cart-plus-minus">
