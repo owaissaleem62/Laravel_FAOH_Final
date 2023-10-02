@@ -44,7 +44,7 @@
         <!-- Modernizr js -->
         <script src="{{asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
     </head>
-    <body style="background-color: #FBAB7E; background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);">
+    <body style="background-color: gray;">
     <div class="page-section">
                 <div class="container">
                 <div class="col-sm-12 col-md-12 col-xs-12 col-lg-6 mx-auto" style="margin-top: 10%;">
@@ -56,7 +56,7 @@
                     </div>
                     @endif
                             <!-- Login Form s-->
-                            <form action="{{route('makelogin')}}" method="post"  style="box-shadow: 10px 10px 5px 0px rgba(79,79,79,0.75)">
+                            <form action="{{route('makelogin')}}" method="post" >
                                 <div class="login-form">
                                     <h4 class="login-title">Login</h4>
                                     @csrf

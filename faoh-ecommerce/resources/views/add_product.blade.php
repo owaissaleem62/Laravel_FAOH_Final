@@ -5,6 +5,8 @@
         <div class="card-header py-3 card shadow mb-4">
         <h6 class="m-0 font-weight-bold text-primary">ADD PRODUCTS</h6>
     </div>
+
+
 <div class="col-md-6 offset-md-2">
     <!-- Main Content -->
     @if (session('status'))
@@ -52,6 +54,9 @@
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 </div>
+
+
+
 
 </div>
 <!-- /.container-fluid -->
