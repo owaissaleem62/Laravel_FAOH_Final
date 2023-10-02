@@ -15,51 +15,13 @@ class ProductController extends Controller
         //
     }
 
-    public function getProductData()
-    {
-        
-        $product = product::all();
-        return view('product_list', compact('product'));
-    }
-
-    public function AddProduct(Request $request)
-    {
-        //return $request->input();
-
-     
-            $product = new product;
-            $product->Title = $request->input('title');
-            $product->Code = $request->input('code');
-            $product->price = $request->input('price');
-            $product->quantity = $request->input('qty');
-            $product->Description =$request->input('des');
-           
-    
-       
-           
-        
-            //image
-            if ($request->hasfile('image')) {
-              $img = $request->file('image');
-              $ext = rand().".".$img->getClientOriginalName();
-              $img->move("Uploadimages/",$ext);
-              $product->image =$ext;
-             }else{
-             $product->image = "";
-             }
-
-              $product->categoryID = $request->category_id;
-              $product->save();
-    
-              return redirect()->back()->with('status','product Added Successfully');
-        
-            
-    }
-
     /**
      * Show the form for creating a new resource.
      */
-  
+    public function create()
+    {
+        //
+    }
 
     /**
      * Store a newly created resource in storage.
