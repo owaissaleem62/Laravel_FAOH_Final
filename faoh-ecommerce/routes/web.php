@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\newcontroller;
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\CategoryController;
-use App\Http\Controllers\ProductController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -31,7 +31,6 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/order_table', [newcontroller::class,'orders_table'])->name('order_table');
     Route::get('/add_products', [newcontroller::class,'add_products'])->name('add_products');
     Route::get('/add_products', [CategoryController::class,'index'])->name('add_products');
-    Route::get('/product_list', [ProductController::class,'getProductData'])->name('listproduct');
 
 //login register
     Route::get('/Login-Register', "user_login")->name('user_login');
@@ -52,9 +51,6 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/admin-logout', [AdminController::class,'admin_logout'])->name('admin-logout');
     Route::post('add-category', [CategoryController::class, 'store']);
     Route::get('product_categorys/{categoryID}', [CategoryController::class, 'destroy']);
-    Route::post('/add-products_data', [ProductController::class,'AddProduct'])->name('product-store');
-
-    
 
 
 
