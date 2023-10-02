@@ -2,10 +2,13 @@
 @section('content')
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div class="container-fluid">
         <div class="card-header py-3 card shadow mb-4">
         <h6 class="m-0 font-weight-bold text-primary">ADD PRODUCTS</h6>
     </div>
+=======
+>>>>>>> parent of a128c7a (update)
 =======
 >>>>>>> parent of a128c7a (update)
 <div class="col-md-6 offset-md-2">
@@ -54,7 +57,10 @@
 </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of a128c7a (update)
 <div class="container-fluid">
         <div class="card-header py-3 card shadow mb-4">
         <h6 class="m-0 font-weight-bold text-primary">All Products Detail</h6>
@@ -135,6 +141,9 @@
     </div>
 </div>
 
+<<<<<<< HEAD
+>>>>>>> parent of a128c7a (update)
+=======
 >>>>>>> parent of a128c7a (update)
 </div>
 <!-- /.container-fluid -->
