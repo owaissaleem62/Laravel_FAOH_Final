@@ -44,7 +44,7 @@
                         <td>{{$product_store->quantity}}</td>
                         <td>{{$product_store->Description}}</td>
                         <td>
-                        <img class="" style="width: 100%;height:100px;" src="Uploadimages/{{$product_store->image}}" alt="Card image cap">
+                        <img class="" style="width: 100%;height:300px;" src="Uploadimages/{{$product_store->image}}" alt="Card image cap">
                         </td>
                         <td>{{$product_store->CategoryID}}</td>
                     </tr>

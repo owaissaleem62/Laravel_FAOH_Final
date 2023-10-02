@@ -27,9 +27,7 @@ class newcontroller extends Controller
     }
 
     public function homePg(){
-        $product = product::all();
-        return view('index', compact('product'));
-        // return view("index");
+        return view("index");
     }
 
 
@@ -71,7 +69,7 @@ class newcontroller extends Controller
         return view("transection_tbl");
     }
 
-
+   
     public function add_customer(){
         return view("add_customer");
     }
