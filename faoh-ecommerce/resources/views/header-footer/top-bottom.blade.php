@@ -171,16 +171,16 @@
                                         <!-- Begin Header Mini Cart Area -->
                                         <li class="hm-minicart">
                                         <?php
+                                            
                                             $cartItems = session('cart') ?? [];
-                                            ?>
+                                            $product   = \DB::table('products')->get();?>
                                             <div class="hm-minicart-trigger">
                                                 <span class="item-icon"></span>
-                                                <span class="item-text">£80.00
+                                                <span class="item-text">{{$subtotal =number_format ($pro['price'] * $pro['quantity'],)}}</span>
                                                 <span class="cart-item-count">({{ count($cartItems) }})</span>
 
-                                                </span>
+                                                
                                             </div>
-                                            <span></span>
                                             @foreach($product as $pro)
                                             <div class="minicart">
                                                 <ul class="minicart-product-list">
@@ -190,7 +190,7 @@
                                                         </a>
                                                         <div class="minicart-product-details">
                                                             <h6><a class="product_name">{{$pro->Title}}</a></h6>
-                                                            <span style="color: black;">{{$pro->quantity}}</span>
+                                                            <span style="color: black;">{{$pro->quantity}}x</span>
                                                             <span style="color: black;">{{$pro->price}}</span>
                                                         </div>
                                                         <button class="close" title="Remove">

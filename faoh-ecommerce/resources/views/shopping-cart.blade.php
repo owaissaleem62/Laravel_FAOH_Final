@@ -44,18 +44,17 @@
                                             <tr>
                                                 <td class="li-product-remove"><a href="#"><i class="fa fa-times"></i></a></td>
                                                 <td class="li-product-thumbnail"><a href="#">@if($image)
-                                                <img src="{{ $pro['image'] }}" alt="Li's Product Image" style="width: 30%;"></a>@endif</td>
+                                                <img src="{{ asset('Uploadimages/' . $pro['image']) }}" alt="Li's Product Image" style="width: 30%;"></a>@endif</td>
                                                 <td class="li-product-name"><a href="#">{{ $pro['Title'] }}</a></td>
-                                                <td class="li-product-price"><span class="amount">{{ $pro['price'] }}</span></td>
+                                                <td class="li-product-price"><span class="amount">{{number_format ($pro['price'],) }}</span></td>
                                                 <td class="quantity">
-                                                    <label>Quantity</label>
                                                     <div class="cart-plus-minus">
                                                         <input class="cart-plus-minus-box" value="1" type="text">
                                                         <div class="dec qtybutton"><i class="fa fa-angle-down"></i></div>
                                                         <div class="inc qtybutton"><i class="fa fa-angle-up"></i></div>
                                                     </div>
                                                 </td>
-                                                <td class="product-subtotal"><span class="amount">$70.00</span></td>
+                                                <td class="product-subtotal"><span class="amount">{{$subtotal =number_format ($pro['price'] * $pro['quantity'],)}}</span></td>
                                             </tr>
                                         
                                             @endforeach
@@ -66,8 +65,8 @@
                                     <div class="col-12">
                                         <div class="coupon-all">
                                             <div class="coupon">
-                                                <input id="coupon_code" class="input-text" name="coupon_code" value="" placeholder="Coupon code" type="text">
-                                                <input class="button" name="apply_coupon" value="Apply coupon" type="submit">
+                                                <!-- <input id="coupon_code" class="input-text" name="coupon_code" value="" placeholder="Coupon code" type="text"> -->
+                                                <input class="button" name="apply_coupon" value="Clear Cart" type="submit">
      
                                             </div>
                                             <div class="coupon2">
@@ -77,18 +76,13 @@
                                     </div>
                                 </div>
 
-                                <form action="{{ route('clear-cart') }}" method="post">
-    @csrf
-    <button type="submit">Clear Cart</button>
-</form>
-
                                 <div class="row">
                                     <div class="col-md-5 ml-auto">
                                         <div class="cart-page-total">
                                             <h2>Cart totals</h2>
                                             <ul>
-                                                <li>Subtotal <span>$130.00</span></li>
-                                                <li>Total <span>$130.00</span></li>
+                                                <li>Subtotal <span>{{$subtotal =number_format ($pro['price'] * $pro['quantity'],)}}</span></li>
+                                                <li>Total <span>{{$subtotal =number_format ($pro['price'] * $pro['quantity'],)}}</span></li>
                                             </ul>
                                             <a href="#">Proceed to checkout</a>
                                         </div>
