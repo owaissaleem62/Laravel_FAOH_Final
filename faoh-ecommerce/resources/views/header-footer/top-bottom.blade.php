@@ -170,16 +170,14 @@
                                         <!-- Header Middle Wishlist Area End Here -->
                                         <!-- Begin Header Mini Cart Area -->
                                         <li class="hm-minicart">
-<<<<<<< HEAD
                                         <?php
                                             $cartItems = session('cart') ?? [];
                                             ?>
-=======
->>>>>>> parent of 759671a (add to cart complete)
                                             <div class="hm-minicart-trigger">
                                                 <span class="item-icon"></span>
                                                 <span class="item-text">£80.00
-                                                    <span class="cart-item-count">2</span>
+                                                <span class="cart-item-count">({{ count($cartItems) }})</span>
+
                                                 </span>
                                             </div>
                                             <span></span>
@@ -202,7 +200,7 @@
                                                 </ul>
                                                 <p class="minicart-total">SUBTOTAL: <span>£80.00</span></p>
                                                 <div class="minicart-button">
-                                                    <a href="{{route('shopping_cart')}}" class="li-button li-button-fullwidth ">
+                                                    <a href="{{route('view-cart')}}" class="li-button li-button-fullwidth ">
                                                         <span>View Full Cart</span>
                                                     </a>
                                                     <a href="{{route('checkout')}}" class="li-button li-button-fullwidth">
@@ -299,7 +297,7 @@
                                                 </ul>
                                             </li> -->
                                             <li><a href="{{route('wishlist')}}">Wishlist</a></li>
-                                            <li><a href="{{route('shopping_cart')}}">Shopping Cart</a></li>
+                                            <li><a href="{{route('view-cart')}}">Shopping Cart</a></li>
                                             <li><a href="{{route('about')}}">About Us</a></li>
                                             <li><a href="{{route('contact')}}">Contact</a></li>
                                         </ul>
