@@ -7,8 +7,6 @@ use Illuminate\Http\Request;
 use App\Models\product;
 use Illuminate\Support\Facades\Auth;
 use App\Models\Category;
-
-use Illuminate\Support\Facades\Session;
 class newcontroller extends Controller
 {
 
@@ -38,58 +36,11 @@ class newcontroller extends Controller
     }
 
     public function shopLeft(){
-        $product = product::all();
-        return view("shop-left-sidebar",compact('product'));
+        return view("shop-left-sidebar");
     }
-
-
-    public function bookCart()
-    {
-        $product = product::all();
-
-        $cartItems = session()->get('cart', []);
-        return view('index', compact('cartItems','product'));
-    }
-    public function addBooktoCart($id)
-    {
-        $book = product::findOrFail($id); // Assuming 'Product' is your model name
-        $cart = session()->get('cart', []);
-        
-        if (isset($cart[$id])) {
-            $cart[$id]['quantity']++;
-        } else {
-            $cart[$id] = [
-                "id" => $book->id,
-                "Title" => $book->Title,
-                "quantity" => 1,
-                "price" => $book->price,
-                "image" => $book->image
-            ];
-        }
-        
-        session()->put('cart', $cart);
-        
-        return redirect()->back()->with('success', 'Item has been added to cart!');
-    }
-    
-
-
-    public function clearCart()
-    {
-        // Clear the cart items in the session
-        Session::forget('cart');
-    
-        // Optionally, you can set a flash message
-        session()->flash('success', 'Cart has been cleared.');
-    
-        return redirect()->route('view-cart'); // Redirect to the cart view or any other page
-    }
-    
 
     public function shoppingCart(){
-        
-        $product = product::all();
-        return view("shopping-cart",compact('product'));
+        return view("shopping-cart");
     }
 
     public function wishlist(){

@@ -25,14 +25,7 @@ Route::controller(newcontroller::class)->group(function(){
     Route::get('/contact', [newcontroller::class,'contact'])->name('contact');
     // Route::get('/Login-Register', [newcontroller::class,'Login_Register'])->name('Login-Register');
     Route::get('/product-Details', [newcontroller::class,'productDetail'])->name('product_detail');
-    Route::get('/view-cart', [newcontroller::class,'shoppingCart'])->name('view-cart');
- //add to cart
- Route::get('/shopping-cart', [newcontroller::class, 'bookCart'])->name('shopping.cart');
- Route::get('/book/{id}',  [newcontroller::class,'addBooktoCart'])->name('addbook.to.cart');
- 
- Route::get('/clear-cart',  [newcontroller::class,'clearCart'])->name('clear-cart');
-
-
+    Route::get('/shopping-cart', [newcontroller::class,'shoppingCart'])->name('shopping_cart');
     Route::get('/Wishlist', [newcontroller::class,'wishlist'])->name('wishlist');
     Route::get('/Shop', [newcontroller::class,'shopLeft'])->name('shop');
     Route::get('/order_table', [newcontroller::class,'orders_table'])->name('order_table');
